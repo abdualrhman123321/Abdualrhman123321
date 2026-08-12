@@ -1,41 +1,34 @@
 
-readme_content = '''<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║                                                                                      ║ -->
-<!-- ║   █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██████╗  █████╗ ██╗  ██╗███╗   ███╗         ║ -->
-<!-- ║   ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔══██╗██╔══██╗██║  ██║████╗ ████║         ║ -->
-<!-- ║   ███████║██████╔╝██║  ██║██║   ██║██║     ██████╔╝███████║███████║██╔████╔██║         ║ -->
-<!-- ║   ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║         ║ -->
-<!-- ║   ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║         ║ -->
-<!-- ║   ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝         ║ -->
-<!-- ║                                                                                      ║ -->
-<!-- ║              A B D U L R A H M A N   F A D H I L   —   D A T A   A N A L Y S T       ║ -->
-<!-- ║                                                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+readme_content = '''<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║                                                                              ║ -->
+<!-- ║   █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██████╗  █████╗ ██╗  ██╗███╗   ███╗ █║ -->
+<!-- ║   ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔══██╗██╔══██╗██║  ██║████╗ ████║ ║ -->
+<!-- ║   ███████║██████╔╝██║  ██║██║   ██║██║     ██████╔╝███████║███████║██╔████╔██║ ║ -->
+<!-- ║   ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║ ║ -->
+<!-- ║   ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║ ║ -->
+<!-- ║   ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ║ -->
+<!-- ║                                                                              ║ -->
+<!-- ║              D A T A   A N A L Y S T   P O R T F O L I O                     ║ -->
+<!-- ║                                                                              ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  DYNAMIC 3D HEADER BANNER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  DYNAMIC 3D HEADER BANNER - DATA ANALYST THEME                              ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,25:00B4D8,50:0077B6,75:023E8A,100:03045E&height=320&section=header&text=Abdulrahman%20Fadhil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Specialist%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=22&stroke=00FFD1&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,25:00B4D8,50:0077B6,75:023E8A,100:03045E&height=300&section=header&text=Abdulrahman%20Fadhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Specialist%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=20&stroke=00FFD1&strokeWidth=2" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED TYPING SVG #1                                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED TYPING SVG - DATA ANALYST FOCUS                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2000&pause=500&color=00FFD1&center=true&vCenter=true&width=1000&lines=%F0%9F%93%8A%20Transforming%20Raw%20Data%20into%20Strategic%20Insights;%F0%9F%94%8D%20Uncovering%20Hidden%20Patterns%20in%20Complex%20Datasets;%F0%9F%93%88%20Building%20Interactive%20Dashboards%20%26%20Real-Time%20KPIs;%F0%9F%92%A1%20Turning%20Numbers%20into%20Narratives;%F0%9F%8C%8D%20From%20Yemen%20%F0%9F%87%BE%F0%9F%87%AA%20to%20the%20World!%20%F0%9F%8C%8D" alt="Dynamic Typing Animation" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED TYPING SVG #2                                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=900&lines=SELECT%20*%20FROM%20insights%20WHERE%20impact%20%3E%2090%25;%20import%20pandas%20as%20pd;%20df%20%3D%20pd.read_sql(query%2C%20conn);%20plt.figure(figsize%3D(12%2C6));%20sns.heatmap(correlation%2C%20annot%3DTrue);%20PowerBI%20%7C%3E%20DAX%20%3D%20CALCULATE(SUM(Sales)%2C%20FILTER(Region%2C%20%22Middle%20East%22))" alt="Code Typing Animation" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  DYNAMIC BADGES                                                                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  DYNAMIC BADGES - DATA ANALYST EXPERTISE                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Business_Intelligence-Specialist-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
@@ -51,34 +44,33 @@ readme_content = '''<!-- ══════════════════�
   <img src="https://img.shields.io/badge/Available_for_Hire-YES-00FFD1?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  VISITOR COUNTER & METRICS                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  VISITOR COUNTER & METRICS                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=👁️+PROFILE+VIEWS&base=1000"/>
-  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=⭐+FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🌟+TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🔄+LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=📊+COMMITS/MONTH&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS&base=1000"/>
+  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: DATA PARTICLES SYSTEM                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED DATA ANALYSIS GIF - HEADER SECTION                                ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/particles.svg" width="100%"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TABLE OF CONTENTS                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  TABLE OF CONTENTS                                                          ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">📑 Table of Contents</h2>
 
 <p align="center">
@@ -93,20 +85,20 @@ readme_content = '''<!-- ══════════════════�
   <a href="#-connect-with-me">🤝 Connect</a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ABOUT ME SECTION                                                                     ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ABOUT ME SECTION WITH DATA VISUALIZATION GIF                               ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
 </p>
 
 <br/>
@@ -127,23 +119,16 @@ readme_content = '''<!-- ══════════════════�
 >
 > 💼 **Approach:** I combine technical expertise with business acumen to deliver solutions that don't just look good — they drive real, measurable results.
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: ETL PIPELINE                                                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/pipeline.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CORE COMPETENCIES                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  CORE COMPETENCIES                                                          ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🎯 Core Competencies</h2>
 
 <p align="center">
@@ -169,30 +154,16 @@ readme_content = '''<!-- ══════════════════�
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: KEY PERFORMANCE INDICATORS                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/rings.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TECHNICAL SKILLS - FULL STACK                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  TECHNICAL SKILLS - FULL STACK                                              ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🛠️ Technical Skills Arsenal</h2>
 
 <br/>
@@ -250,41 +221,27 @@ readme_content = '''<!-- ══════════════════�
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: LIVE DATA VISUALIZATION                                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/chart.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  FEATURED PROJECTS                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  FEATURED PROJECTS WITH ANIMATED GIF                                        ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">📈 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 1                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  PROJECT 1                                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">1️⃣ Business Intelligence Dashboard System</h3>
 
 <p align="center">
@@ -314,9 +271,9 @@ readme_content = '''<!-- ══════════════════�
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 2                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  PROJECT 2                                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">2️⃣ Sales Forecasting & Predictive Analytics Engine</h3>
 
 <p align="center">
@@ -346,9 +303,9 @@ readme_content = '''<!-- ══════════════════�
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 3                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  PROJECT 3                                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">3️⃣ Automated Performance Reporting System</h3>
 
 <p align="center">
@@ -378,9 +335,9 @@ readme_content = '''<!-- ══════════════════�
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 4                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  PROJECT 4                                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h3 align="center">4️⃣ Geographic Data Analysis & Market Intelligence</h3>
 
 <p align="center">
@@ -408,30 +365,16 @@ readme_content = '''<!-- ══════════════════�
 >   <a href="#"><img src="https://img.shields.io/badge/📄%20Analysis%20Report-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000"/></a>
 > </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: REAL-TIME DATA STREAM                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/wave.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB ANALYTICS - FULL DASHBOARD                                                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  GITHUB ANALYTICS - FULL DASHBOARD                                          ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <br/>
@@ -449,38 +392,38 @@ readme_content = '''<!-- ══════════════════�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1&radius=20&custom_title=📈%20Contribution%20Activity%20Graph" width="95%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB TROPHIES                                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  GITHUB TROPHIES                                                            ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🏆 GitHub Achievement Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdualrhman123321&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROFILE VIEWS & METRICS                                                              ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  PROFILE VIEWS & METRICS                                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">📊 Profile Metrics</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=👁️+PROFILE+VIEWS&base=1000"/>
-  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=⭐+FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🌟+TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🔄+LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=📊+COMMITS/MONTH&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=👁️%20PROFILE+VIEWS&base=1000"/>
+  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=⭐%20FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🌟%20TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🔄%20LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/commit-activity/m/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=📊%20COMMITS/MONTH&logo=git&logoColor=white&labelColor=0D1117"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CERTIFICATIONS                                                                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  CERTIFICATIONS                                                             ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🏆 Certifications & Credentials</h2>
 
 <p align="center">
@@ -497,16 +440,16 @@ readme_content = '''<!-- ══════════════════�
   <img src="https://img.shields.io/badge/Statistics_with_Python-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0D1117"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  LANGUAGES                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  LANGUAGES                                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🗣️ Languages</h2>
 
 <div align="center">
@@ -521,16 +464,16 @@ readme_content = '''<!-- ══════════════════�
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CONNECT WITH ME                                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  CONNECT WITH ME                                                            ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <p align="center">
@@ -557,16 +500,16 @@ readme_content = '''<!-- ══════════════════�
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED RAINBOW DIVIDER                                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  QUOTE / FOOTER SECTION                                                               ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  QUOTE / FOOTER SECTION WITH ANIMATED GIF                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
 </p>
@@ -605,26 +548,11 @@ readme_content = '''<!-- ══════════════════�
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  DYNAMIC FOOTER BANNER                                                                ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  DYNAMIC FOOTER BANNER                                                      ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,25:023E8A,50:0077B6,75:00B4D8,100:00FFD1&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65&stroke=00FFD1&strokeWidth=2" width="100%"/>
 </p>
 '''
 
-# Save the README
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("✅ تم إنشاء ملف README.md الخرافي بنجاح!")
-print(f"📄 حجم الملف: {len(readme_content):,} حرف")
-print(f"📄 عدد الأسطر: {readme_content.count(chr(10)):,} سطر")
-print()
-print("📦 الملفات المُنشأة:")
-print("  1. /mnt/agents/output/README.md")
-print("  2. /mnt/agents/output/svg_assets/particles.svg")
-print("  3. /mnt/agents/output/svg_assets/chart.svg")
-print("  4. /mnt/agents/output/svg_assets/rings.svg")
-print("  5. /mnt/agents/output/svg_assets/wave.svg")
-print("  6. /mnt/agents/output/svg_assets/pipeline.svg")
