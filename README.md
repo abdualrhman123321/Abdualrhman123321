@@ -4,8 +4,17 @@
 <!-- أنيميشن ترحيبي فخم -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B;Abdulrhman+Fadhil+%7C+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+To+The+World+%F0%9F%8C%8D;Turning+Data+Into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
 
-<!-- GIF شخص مع كمبيوتر عالي الجودة صافي -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst" width="400" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.4); border: 2px solid #00FFD1;"/>
+<!-- GIF شخص مع كمبيوتر ونظارة - متحرك عالي الجودة -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="450" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.5); border: 3px solid #00FFD1; animation: pulse 2s infinite;"/>
+
+<!-- تأثير نبض للصورة -->
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 0 50px rgba(0,255,209,0.3); }
+  50% { box-shadow: 0 0 80px rgba(0,255,209,0.7); }
+  100% { box-shadow: 0 0 50px rgba(0,255,209,0.3); }
+}
+</style>
 
 <br/>
 
@@ -38,6 +47,7 @@
 ║  👤 Abdulrhman Fadhil | Data Analyst | محلل بيانات من اليمن           ║
 ║  📊 تحويل البيانات المعقدة إلى رؤى واضحة وقرارات ذكية                ║
 ║  🌍 من اليمن إلى العالم - صناعة المستقبل بالبيانات                    ║
+║  👓 Data Analyst with Glasses - رؤية واضحة لبياناتك                   ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 """
 
@@ -53,6 +63,7 @@ class DataAnalyst:
         self.education = "🎓 IT Graduate | Cisco Networking Academy"
         self.availability = "🌍 Open to Data Analyst opportunities worldwide"
         self.mission = "🎯 Turning Raw Data Into Business Gold"
+        self.style = "👓 Data Analyst with Glasses - رؤية واضحة ودقيقة"
         
         # المهارات الأساسية - مرتبة بشكل احترافي
         self.skills = {
@@ -102,6 +113,7 @@ class DataAnalyst:
         return """
         ╔═══════════════════════════════════════════════════════════════╗
         ║  📌 Data Analyst | Excel, Power BI, SQL & Python            ║
+        ║  👓 Data Analyst with Glasses - رؤية واضحة لبياناتك        ║
         ║                                                             ║
         ║  🎓 IT graduate passionate about Data Analysis & Business   ║
         ║     Intelligence with 3+ years of experience.              ║
@@ -140,6 +152,8 @@ class DataAnalyst:
         ║                                                             ║
         ║  📊 "كل بيانات تحكي قصة، أنا هنا لأرويها بوضوح وإتقان"     ║
         ║                                                             ║
+        ║  👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات" ║
+        ║                                                             ║
         ║  🚀 "المستقبل يُصنع بالبيانات، وأنا صانع القرارات"         ║
         ╚═══════════════════════════════════════════════════════════════╝
         """
@@ -162,6 +176,7 @@ print(f"  📍 {me.location}")
 print(f"  🎓 {me.education}")
 print(f"  🌍 {me.availability}")
 print(f"  🎯 {me.mission}")
+print(f"  👓 {me.style}")
 print("═"*70)
 print("\n  🛠️ مهاراتي وأدواتي الاحترافية:")
 for category, items in me.skills.items():
@@ -187,6 +202,28 @@ print("═"*70)
 ```
 
 <!-- خط فاصل مع تأثير نيون -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- صورة متحركة إضافية - شخص مع نظارة وكمبيوتر -->
+
+<div align="center">
+
+👓 أنا مع نظارتي - رؤية واضحة للبيانات
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding with Glasses" width="350" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.4); border: 2px solid #00FFD1;"/>
+
+
+
+
+
+📊 صورة أخرى - تحليل البيانات
+
+<img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" alt="Data Analysis" width="350" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.4); border: 2px solid #00FFD1;"/>
+
+</div>
+
+<!-- خط فاصل -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -379,6 +416,8 @@ https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00
 
 💫 "من اليمن إلى العالم، أحول البيانات إلى قصص نجاح وقرارات ذكية"
 
+👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات"
+
 ⚡ "Data is the new oil, and I'm the refinery"
 
 <br/>
@@ -388,12 +427,15 @@ print("╔" + "═"*50 + "╗")
 print("║  Thank you for visiting my profile! 🚀            ║")
 print("║  Let's turn data into decisions together! 📊      ║")
 print("║  The future is data-driven, and I'm ready! 💡     ║")
+print("║  👓 Clear vision for your data!                   ║")
 print("╚" + "═"*50 + "╝")
 ```
 
 <br/>
 
 © 2024 Abdulrhman Fadhil | Data Analyst
+👓 Data Analyst with Glasses - رؤية واضحة لبياناتك
 صناعة المستقبل بالبيانات - Building the Future with Data
 
 </div>
+
