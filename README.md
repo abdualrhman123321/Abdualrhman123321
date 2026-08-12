@@ -1,15 +1,23 @@
 
-<div align="center">
-  
-<!-- أنيميشن ترحيبي فخم -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B;Abdulrhman+Fadhil+%7C+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+To+The+World+%F0%9F%8C%8D;Turning+Data+Into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
+<div align="center" width="50">
 
-<!-- GIF شخص مع كمبيوتر عالي الجودة صافي -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst" width="400" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.4); border: 2px solid #00FFD1;"/>
+<!-- صورة ترحيبية متحركة -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Analysts" width="60%"/> <br>
+
+<!-- صورة شخص مع كمبيوتر ونظارة - متحركة عالية الجودة -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="45%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.5), 0 0 120px rgba(0,255,209,0.2); border: 3px solid #00FFD1; animation: glowPulse 2s ease-in-out infinite;"/>
+
+<style>
+@keyframes glowPulse {
+  0% { box-shadow: 0 0 40px rgba(0,255,209,0.3), 0 0 80px rgba(0,255,209,0.1); }
+  50% { box-shadow: 0 0 80px rgba(0,255,209,0.7), 0 0 160px rgba(0,255,209,0.3); }
+  100% { box-shadow: 0 0 40px rgba(0,255,209,0.3), 0 0 80px rgba(0,255,209,0.1); }
+}
+</style>
 
 <br/>
 
-<!-- شارات رئيسية أنيقة -->
+<!-- شارات رئيسية فخمة -->
 <p>
   <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
@@ -22,12 +30,23 @@
 <p>
   <img src="https://img.shields.io/badge/Business_Intelligence-Specialist-FF6B6B?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Data_Visualization-Expert-9B59B6?style=for-the-badge&logo=chartjs&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-Pro-00BCD4?style=for-the-badge&logo=datacleaner&logoColor=white&labelColor=0D1117"/>
 </p>
+
+<!-- إحصائيات الزوار -->
+![Totals Hits](https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdualrhman123321&count_bg=%2300FFD1&title_bg=%23555555&icon=excel.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![linkedin badge](https://img.shields.io/badge/Abdulrahman_Fadhil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/abdulrahman-al-ghrasi)
+
+<!-- سبوتيفاي -->
+<details>
+<p><strong> <summary> 🎵 Analyzing Data & Vibing to : </summary> </strong></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+</details>
 
 </div>
 
-<!-- خط فاصل أنيق مع تأثير نيون -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 ```python
 #!/usr/bin/env python3
@@ -35,9 +54,11 @@
 
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  👤 Abdulrhman Fadhil | Data Analyst | محلل بيانات من اليمن           ║
+║  👤 Abdulrahman Fadhil | Data Analyst | محلل بيانات من اليمن           ║
 ║  📊 تحويل البيانات المعقدة إلى رؤى واضحة وقرارات ذكية                ║
 ║  🌍 من اليمن إلى العالم - صناعة المستقبل بالبيانات                    ║
+║  👓 Data Analyst with Glasses - رؤية واضحة ودقيقة لبياناتك           ║
+║  🚀 Turning Data Into Decisions - تحويل البيانات إلى قرارات          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 """
 
@@ -46,47 +67,51 @@ class DataAnalyst:
     
     def __init__(self):
         # المعلومات الشخصية
-        self.name = "Abdulrhman Fadhil"
+        self.name = "Abdulrahman Fadhil"
         self.username = "Abdualrhman123321"
         self.title = "📊 Data Analyst | Excel, Power BI, SQL & Python"
         self.location = "🇾🇪 Ibb, Yemen"
         self.education = "🎓 IT Graduate | Cisco Networking Academy"
         self.availability = "🌍 Open to Data Analyst opportunities worldwide"
         self.mission = "🎯 Turning Raw Data Into Business Gold"
+        self.style = "👓 Data Analyst with Glasses - رؤية واضحة ودقيقة"
+        self.experience = "⚡ 3+ Years of Experience in Data Analysis"
         
-        # المهارات الأساسية - مرتبة بشكل احترافي
+        # المهارات الأساسية
         self.skills = {
             "🎯 Core Expertise": [
                 "📊 Data Collection & Mining",
                 "🧹 Data Cleaning & Preprocessing",
                 "🔍 Exploratory Data Analysis (EDA)",
-                "📈 Statistical Analysis",
+                "📈 Statistical Analysis & Forecasting",
                 "📋 Dashboard Design & Reporting",
                 "🎨 Data Visualization & Storytelling",
-                "💡 Business Intelligence & Insights"
+                "💡 Business Intelligence & Insights",
+                "📊 KPI Development & Tracking"
             ],
             "🛠️ Technical Tools": [
-                "📊 Excel (Advanced - Power Query, VBA)",
+                "📊 Excel (Advanced - Power Query, VBA, Macros)",
                 "📉 Power BI (DAX, Power Query, M Language)",
-                "🗄️ SQL (MySQL, PostgreSQL, SQLite)",
-                "🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)",
-                "⚡ ETL Pipelines",
-                "📐 Data Modeling"
+                "🗄️ SQL (MySQL, PostgreSQL, SQLite, T-SQL)",
+                "🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)",
+                "⚡ ETL Pipelines & Data Warehousing",
+                "📐 Data Modeling & Database Design"
             ]
         }
         
         # اللغات
         self.languages = {
             "🇸🇦 Arabic": "Native - اللغة الأم (إتقان تام)",
-            "🇬🇧 English": "Professional Working - متوسط متقدم"
+            "🇬🇧 English": "Professional Working - متوسط متقدم (B2)"
         }
         
         # الإحصائيات
         self.github_stats = {
-            "📦 Repositories": "18+",
-            "⭐ Stars": "68+",
-            "👥 Followers": "145+",
-            "🔄 Contributions": "320+"
+            "📦 Repositories": "20+",
+            "⭐ Stars": "75+",
+            "👥 Followers": "160+",
+            "🔄 Contributions": "350+",
+            "📊 Projects": "15+"
         }
         
         # معلومات التواصل
@@ -94,7 +119,8 @@ class DataAnalyst:
             "📧 Email": "abdulrhman.fadhil@outlook.com",
             "🔗 LinkedIn": "linkedin.com/in/abdulrhman-fadhil",
             "🐦 Twitter": "twitter.com/abdulrhman_analyst",
-            "📱 WhatsApp": "+967-777-XXX-XXX"
+            "📱 WhatsApp": "+967-777-XXX-XXX",
+            "💻 GitHub": "github.com/Abdualrhman123321"
         }
     
     def about_me(self):
@@ -102,27 +128,31 @@ class DataAnalyst:
         return """
         ╔═══════════════════════════════════════════════════════════════╗
         ║  📌 Data Analyst | Excel, Power BI, SQL & Python            ║
+        ║  👓 Data Analyst with Glasses - رؤية واضحة لبياناتك        ║
         ║                                                             ║
-        ║  🎓 IT graduate passionate about Data Analysis & Business   ║
-        ║     Intelligence with 3+ years of experience.              ║
+        ║  🎓 IT Graduate from Cisco Networking Academy passionate    ║
+        ║     about Data Analysis & Business Intelligence with        ║
+        ║     3+ years of hands-on experience.                       ║
         ║                                                             ║
         ║  💡 I transform complex data into clear, actionable        ║
         ║     insights and interactive dashboards using cutting-edge  ║
-        ║     analytics tools and techniques.                        ║
+        ║     analytics tools and advanced techniques.               ║
         ║                                                             ║
-        ║  🎯 Expertise:                                              ║
-        ║     • Data Collection & Research                            ║
-        ║     • Data Cleaning & Preprocessing                         ║
-        ║     • Exploratory Data Analysis (EDA)                       ║
-        ║     • Dashboard Design & Reporting                          ║
-        ║     • Data Visualization & Storytelling                     ║
-        ║     • Business Intelligence Solutions                       ║
+        ║  🎯 Core Expertise:                                         ║
+        ║     • 📊 Data Collection & Research                         ║
+        ║     • 🧹 Data Cleaning & Preprocessing                      ║
+        ║     • 🔍 Exploratory Data Analysis (EDA)                    ║
+        ║     • 📈 Statistical Analysis & Forecasting                 ║
+        ║     • 📋 Dashboard Design & Interactive Reporting           ║
+        ║     • 🎨 Data Visualization & Storytelling                  ║
+        ║     • 💡 Business Intelligence Solutions & KPIs             ║
         ║                                                             ║
-        ║  🛠️ Tools:                                                 ║
-        ║     • Excel (Advanced - Power Query, VBA)                   ║
-        ║     • Power BI (DAX, Power Query, M Language)               ║
-        ║     • SQL (MySQL, PostgreSQL)                               ║
-        ║     • Python (Pandas, NumPy, Matplotlib, Seaborn)           ║
+        ║  🛠️ Technical Toolkit:                                      ║
+        ║     • 📊 Excel (Advanced - Power Query, VBA, Macros)        ║
+        ║     • 📉 Power BI (DAX, Power Query, M Language)            ║
+        ║     • 🗄️ SQL (MySQL, PostgreSQL, SQLite, T-SQL)            ║
+        ║     • 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)        ║
+        ║     • ⚡ ETL Pipelines & Data Modeling                      ║
         ║                                                             ║
         ║  🌍 Open to Data Analyst opportunities worldwide.           ║
         ║                                                             ║
@@ -140,7 +170,11 @@ class DataAnalyst:
         ║                                                             ║
         ║  📊 "كل بيانات تحكي قصة، أنا هنا لأرويها بوضوح وإتقان"     ║
         ║                                                             ║
+        ║  👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات" ║
+        ║                                                             ║
         ║  🚀 "المستقبل يُصنع بالبيانات، وأنا صانع القرارات"         ║
+        ║                                                             ║
+        ║  ⚡ "Data is the new oil, and I'm the refinery"             ║
         ╚═══════════════════════════════════════════════════════════════╝
         """
     
@@ -162,6 +196,8 @@ print(f"  📍 {me.location}")
 print(f"  🎓 {me.education}")
 print(f"  🌍 {me.availability}")
 print(f"  🎯 {me.mission}")
+print(f"  👓 {me.style}")
+print(f"  ⚡ {me.experience}")
 print("═"*70)
 print("\n  🛠️ مهاراتي وأدواتي الاحترافية:")
 for category, items in me.skills.items():
@@ -184,13 +220,58 @@ print("  🤝 تواصل معي:")
 for method, info in me.contact_info().items():
     print(f"     {method}: {info}")
 print("═"*70)
+
+# رسالة ختامية
+print("""
+╔═══════════════════════════════════════════════════════════════╗
+║  🚀 Thank you for visiting my profile!                       ║
+║  📊 Let's turn data into decisions together!                 ║
+║  💡 The future is data-driven, and I'm ready!               ║
+║  👓 Clear vision for your data!                             ║
+╚═══════════════════════════════════════════════════════════════╝
+""")
 ```
 
-<!-- خط فاصل مع تأثير نيون -->
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- صور متحركة إضافية - شخص مع نظارة وكمبيوتر -->
 
-<!-- إحصائيات جيت هب المتقدمة بتصميم فخم -->
+<div align="center">
+
+👓 أنا مع نظارتي - رؤية واضحة للبيانات
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding with Glasses" width="300" style="border-radius: 15px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/>
+      <b>💻 Coding & Analysis</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" alt="Data Analysis" width="300" style="border-radius: 15px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/>
+      <b>📊 Data Visualization</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst" width="300" style="border-radius: 15px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/>
+      <b>📈 Data Analysis</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.dribbble.com/users/1292677/screenshots/14516142/media/0b9fa9b1db47de4ddee6504afa972b74.gif" alt="Business Intelligence" width="300" style="border-radius: 15px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/>
+      <b>💡 Business Intelligence</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
+
+<!-- إحصائيات جيت هب المتقدمة -->
 
 <div align="center">
 
@@ -198,28 +279,26 @@ print("═"*70)
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" alt="GitHub Stats" width="95%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" alt="GitHub Streak" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" alt="GitHub Streak" width="95%"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact" alt="Top Languages" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact" alt="Top Languages" width="95%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1" alt="Contribution Graph" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1" alt="Contribution Graph" width="95%"/>
     </td>
   </tr>
 </table>
 
 </div>
 
-<!-- خط فاصل -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 🏆 شهاداتي الاحترافية الفخمة
 
@@ -252,9 +331,7 @@ print("═"*70)
 
 </div>
 
-<!-- خط فاصل -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 📈 مشاريعي المميزة والرائدة
 
@@ -295,9 +372,7 @@ print("═"*70)
 
 </div>
 
-<!-- خط فاصل -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 📊 إحصائيات الملف الشخصي الفخمة
 
@@ -319,9 +394,7 @@ print("═"*70)
 
 </div>
 
-<!-- خط فاصل -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 🎵 ما أستمع إليه أثناء تحليل البيانات
 
@@ -331,9 +404,7 @@ https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00
 
 </div>
 
-<!-- خط فاصل -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 🤝 تواصل معي - لنصنع المستقبل معاً
 
@@ -371,13 +442,13 @@ https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00
 
 </div>
 
-<!-- خط فاصل أخير فخم -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00FFD1; box-shadow: 0 0 20px rgba(0,255,209,0.3);"/>
 
 <div align="center">
 
 💫 "من اليمن إلى العالم، أحول البيانات إلى قصص نجاح وقرارات ذكية"
+
+👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات"
 
 ⚡ "Data is the new oil, and I'm the refinery"
 
@@ -385,15 +456,18 @@ https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00
 
 ```python
 print("╔" + "═"*50 + "╗")
-print("║  Thank you for visiting my profile! 🚀            ║")
-print("║  Let's turn data into decisions together! 📊      ║")
-print("║  The future is data-driven, and I'm ready! 💡     ║")
+print("║  🚀 Thank you for visiting my profile!               ║")
+print("║  📊 Let's turn data into decisions together!         ║")
+print("║  💡 The future is data-driven, and I'm ready!        ║")
+print("║  👓 Clear vision for your data!                      ║")
+print("║  🌍 From Yemen to the World!                         ║")
 print("╚" + "═"*50 + "╝")
 ```
 
 <br/>
 
-© 2024 Abdulrhman Fadhil | Data Analyst
-صناعة المستقبل بالبيانات - Building the Future with Data
+© 2024 Abdulrahman Fadhil | Data Analyst
+👓 Data Analyst with Glasses - رؤية واضحة لبياناتك
+🇾🇪 From Yemen to the World | صناعة المستقبل بالبيانات
 
 </div>
