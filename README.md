@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Analysts" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Analysts" width="60%"/> <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfvh6c3P2/giphy.gif" alt="Data Analysis"  width="40%"/><br> 
 
 <details>
@@ -10,9 +10,9 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR-USERNAME-HERE&style=flat&color=0e75b6&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR-USERNAME-HERE&count_bg=%230e75b6&title_bg=%23555555&icon=excel.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/Abdulrahman--Al--Ghrasi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=Abdualrhman123321&style=flat&color=0e75b6&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdualrhman123321&count_bg=%230e75b6&title_bg=%23555555&icon=excel.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![linkedin badge](https://img.shields.io/badge/Abdulrahman-Al--Ghrasi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-al-ghrasi) <br>
 </div>
 
 <hr></hr>
@@ -29,31 +29,26 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/BI-Business%20Intelligence-orange?style=flat)
 ![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-success?style=flat)
-![Data Visualization](https://img.shields.io/badge/Visualization-Charts-blue?style=flat)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-
-
+```python
+# Abdulrahman Al-ghrasi - Data Analyst
 
 class About_Me_As_DataAnalyst:
     def __init__(self):
         self.name = "Abdulrahman Al-ghrasi"
+        self.username = "Abdualrhman123321"
         self.role = "Data Analyst"
         self.location = "Sana'a, Yemen"
+        self.learning_from = "Cisco Networking Academy"
         
         self.myTools = {  
             "Analysis & BI" : { "Excel Advanced", "Power BI", "Business Intelligence", "Data Storytelling" },
             "Programming" : { "Python", "SQL", "Pandas", "Matplotlib", "NumPy" },
-            "Databases" : { "MySQL", "SQLite", "Excel Power Query" },
-            "Editors" : { "VS Code", "Jupyter Notebook", "Excel" },
-            "Platforms" : { "Windows", "Linux" },
-            "OtherTools" : { "Git", "GitHub", "Power Query", "Data Cleaning" },
-            "Languages" : { "Arabic (Native)", "English (Good)" }
+            "Databases" : { "MySQL", "SQLite", "Power Query" },
+            "Editors" : { "VS Code", "Jupyter Notebook" },
+            "Languages" : { "Arabic (Native)", "English (Professional)" }
         }
     
     def my_mission(self):
