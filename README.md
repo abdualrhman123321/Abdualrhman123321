@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfvh6c3P2/giphy.gif" alt="Data Analysis"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy Analyzing & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  📊 Analyzing Data & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
