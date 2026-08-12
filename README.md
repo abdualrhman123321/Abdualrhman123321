@@ -117,11 +117,11 @@
 <!-- اللغات -->
 <div align="center">
   
-## 🗣️ Languages
+ 🗣️ Languages
 
-| 🇸🇦 Arabic | 🇬🇧 English |
-|-----------|------------|
-| Native - اللغة الأم | Professional Working (B2) |
+🇸🇦 Arabic Native - اللغة الأم 
+< br>
+🇬🇧 english Professional Working (B2) 
 
 </div>
 
