@@ -1,8 +1,7 @@
-
 <div align="center">
 
-<!-- خلفية متحركة فوق الاسم -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.3);"/>
+<!-- خلفية متحركة علوية - نفس العرض الكامل -->
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2);"/>
 
 <br/><br/>
 
@@ -24,11 +23,16 @@
 
 <br/>
 
-<!-- خلفية متحركة - شخص مع كمبيوتر ونظارة -->
+<!-- خط فاصل أنيق -->
 <div align="center">
-  
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="50%" style="border-radius: 30px; box-shadow: 0 0 80px rgba(0,255,209,0.5); border: 4px solid #00FFD1;"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
+<br/>
+
+<!-- خلفية متحركة وسطية - شخص مع كمبيوتر ونظارة بعرض كامل -->
+<div align="center" style="width: 100%;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.4); border: 3px solid #00FFD1;"/>
 </div>
 
 <br/>
@@ -47,6 +51,13 @@
 ### 📊 Data Analyst | Excel, Power BI, SQL & Python
 ### 🇾🇪 Ibb, Yemen | 🌍 Open to opportunities worldwide
 
+</div>
+
+<br/>
+
+<!-- خط فاصل -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <br/>
@@ -89,6 +100,20 @@
 
 <br/>
 
+<!-- خلفية متحركة وسطية ثانية - شخص مع كمبيوتر -->
+<div align="center" style="width: 100%;">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.3); border: 3px solid #00FFD1;"/>
+</div>
+
+<br/>
+
+<!-- خط فاصل -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
 <!-- اللغات -->
 <div align="center">
   
@@ -117,12 +142,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="280" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>💻 Coding & Analysis</b>
+      <img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/><b>📊 Data Visualization</b>
     </td>
     <td align="center">
-      <img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" width="280" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>📊 Data Visualization</b>
+      <img src="https://cdn.dribbble.com/users/1292677/screenshots/14516142/media/0b9fa9b1db47de4ddee6504afa972b74.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
+      <br/><b>💡 Business Intelligence</b>
     </td>
   </tr>
 </table>
@@ -180,6 +205,13 @@
 <!-- خط فاصل -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- خلفية متحركة سفلية - نفس الخلفية العلوية -->
+<div align="center" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.7;"/>
 </div>
 
 <br/>
@@ -289,7 +321,7 @@
 
 <br/>
 
-<!-- خلفية متحركة سفلية -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 50px rgba(0,255,209,0.3); opacity: 0.5;"/>
+<!-- خلفية متحركة سفلية ثانية - نفس العرض الكامل -->
+<div align="center" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.5;"/>
 </div>
