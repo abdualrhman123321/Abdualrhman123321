@@ -1,9 +1,9 @@
 الطلب
 
-═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ABDULRAHMAN FADHIL - DATA ANALYST PROFILE README          ║ -->
 <!-- ║  Dynamic • Professional • Animated                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  DYNAMIC HEADER BANNER                                      ║ -->
@@ -1036,9 +1036,4 @@ readme_content = '''<!-- ══════════════════�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:00FFD1&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </p>
-'''
-
-# Save the file
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
 
