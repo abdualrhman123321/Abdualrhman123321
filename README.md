@@ -1,51 +1,77 @@
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Data Cleaning &amp; Organization</span></li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">System Design &amp; Data Modeling</span></li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Dashboard Design &amp; Reporting</span></li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">E-commerce &amp; Marketing Analytics</span></li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Business Intelligence</span></li>
-</ul>
-<hr class="my-6 border-border" data-streamdown="horizontal-rule"/>
-<h3 class="mt-6 mb-2 font-semibold text-xl" data-streamdown="heading-3">📊 Featured Projects</h3>
-<h4 class="mt-6 mb-2 font-semibold text-lg" data-streamdown="heading-4">🛒 1. E-commerce Marketing System (Graduation Project)</h4>
-<blockquote class="my-4 border-muted-foreground/30 border-l-4 pl-4 text-muted-foreground italic" data-streamdown="blockquote">
-<p><span class="font-semibold" data-streamdown="strong">Role:</span> Assistant &amp; Implementer | System Design and Data Organization</p>
-</blockquote>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Designed and implemented database structure for an online marketing platform</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Organized and cleaned large datasets for marketing analysis</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Built reports to track sales performance and customer behavior</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Tools:</span> System Design, Data Organization, Excel</li>
-</ul>
-<h4 class="mt-6 mb-2 font-semibold text-lg" data-streamdown="heading-4">📈 2. Sales Performance Dashboard - Power BI</h4>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Created an interactive dashboard to analyze sales trends, top products, and revenue</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Used DAX for advanced calculations and KPIs</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Tools:</span> Power BI, Excel, Data Visualization</li>
-</ul>
-<h4 class="mt-6 mb-2 font-semibold text-lg" data-streamdown="heading-4">🧹 3. Data Cleaning &amp; Analysis Project - Cisco</h4>
-<ul class="list-inside list-disc whitespace-normal [li_&amp;]:pl-6" data-streamdown="unordered-list">
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Gained hands-on experience in Excel and Power BI through Cisco Networking Academy training</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item">Transformed raw data into clean, actionable insights</li>
-<li class="py-1 [&amp;&gt;p]:inline" data-streamdown="list-item"><span class="font-semibold" data-streamdown="strong">Tools:</span> Excel, Power BI</li>
-</ul>
-<blockquote class="my-4 border-muted-foreground/30 border-l-4 pl-4 text-muted-foreground italic" data-streamdown="blockquote">
-<p><em>More projects coming soon - Stay tuned!</em></p>
-</blockquote>
-<hr class="my-6 border-border" data-streamdown="horizontal-rule"/>
-<h3 class="mt-6 mb-2 font-semibold text-xl" data-streamdown="heading-3">📈 GitHub Stats</h3>
-&lt;p align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&amp;show_icons=true&amp;theme=tokyonight&quot; alt=&quot;GitHub Stats&quot; height=&quot;160&quot;/&gt;
-&lt;img src=&quot;https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&amp;theme=tokyonight&quot; alt=&quot;Streak Stats&quot; height=&quot;160&quot;/&gt;
-&lt;/p&gt;
-<hr class="my-6 border-border" data-streamdown="horizontal-rule"/>
-<h3 class="mt-6 mb-2 font-semibold text-xl" data-streamdown="heading-3">📫 Let&#x27;s Connect &amp; Collaborate!</h3>
-<p>I&#x27;m open to freelance, remote Data Analyst roles and collaborations.</p>
-<p><a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi" target="_blank" rel="noopener noreferrer" node="[object Object]"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="LinkedIn" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div></a><br/>
-<a href="mailto:your-email@gmail.com" target="_blank" rel="noopener noreferrer" node="[object Object]"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="Email" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div></a><br/>
-<span title="Blocked URL: #" class="text-gray-500"><div class="group relative my-4 inline-block" data-streamdown="image-wrapper"><img alt="Portfolio" class="max-w-full rounded-lg" data-streamdown="image" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white"/><div class="pointer-events-none absolute inset-0 hidden rounded-lg bg-black/10 group-hover:block"></div></div> [blocked]</span></p>
-<blockquote class="my-4 border-muted-foreground/30 border-l-4 pl-4 text-muted-foreground italic" data-streamdown="blockquote">
-<p>&quot;Data is the new oil, but insights are the refinery.&quot; - Let&#x27;s refine your data together!</p>
-</blockquote>
-<hr class="my-6 border-border" data-streamdown="horizontal-rule"/>
-&lt;p align=&quot;center&quot;&gt;⭐ From Yemen with data passion 🇾🇪&lt;/p&gt;</div></div></div></div><!--$--><!--/$--><script src="/_next/static/chunks/2itn9ngb6p3qo.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n3:I[880623,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"default\"]\n4:I[317553,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"default\"]\n6:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"OutletBoundary\"]\n7:\"$Sreact.suspense\"\na:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"ViewportBoundary\"]\nc:I[231865,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"MetadataBoundary\"]\ne:I[965245,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"default\",1]\n:HL[\"/_next/static/chunks/33yrjrztt5jcg.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"style\"]\n:HL[\"/_next/static/chunks/1nox-qc9so5sz.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"style\"]\n:HL[\"/_next/static/media/OptimisticAI_VF_Optimized-s.p.41te7jvyx2g5b.woff2?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/media/OptimisticAI_W_TextRegularIt-s.p.3i-4g1i3oysuq.woff2?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/_next/static/chunks/0rutoect-ui6i.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"style\"]\n:HL[\"/_next/static/chunks/287l5xq35imjj.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"style\"]\n:HL[\"/_next/static/chunks/2jjy6o95vbpj2.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"style\"]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"c\":[\"\",\"markdown?artifact_uuid=71e98ca8-904d-4f2d-8d61-aa7ff7563dfe\u0026ext=1786573287\u0026hash=Q5fpDAHTe4Go_Z-xbJ0DTn5rhzdK\"],\"q\":\"?artifact_uuid=71e98ca8-904d-4f2d-8d61-aa7ff7563dfe\u0026ext=1786573287\u0026hash=Q5fpDAHTe4Go_Z-xbJ0DTn5rhzdK\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"markdown\",{\"children\":[\"__PAGE__?{\\\"artifact_uuid\\\":\\\"71e98ca8-904d-4f2d-8d61-aa7ff7563dfe\\\",\\\"ext\\\":\\\"1786573287\\\",\\\"hash\\\":\\\"Q5fpDAHTe4Go_Z-xbJ0DTn5rhzdK\\\"}\",{}]}]},\"$undefined\",\"$undefined\",16],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/33yrjrztt5jcg.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/1nox-qc9so5sz.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"async\":true,\"nonce\":\"$undefined\"}]],\"$L2\"]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[\"$L5\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/0rutoect-ui6i.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/287l5xq35imjj.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/2jjy6o95vbpj2.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/1iz7o0_0nhsj0.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/00v-gn59_u31t.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-2\",{\"src\":\"/_next/static/chunks/1hgne56kqq79v.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"$L6\",null,{\"children\":[\"$\",\"$7\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@8\"}]}]]}],{},null,false,null]},null,false,\"$@9\"]},null,false,null],[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$La\",null,{\"children\":\"$Lb\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"$7\",null,{\"name\":\"Next.Metadata\",\"children\":\"$Ld\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}],false]],\"m\":\"$undefined\",\"G\":[\"$e\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/33yrjrztt5jcg.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/1nox-qc9so5sz.css?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]]],\"S\":false,\"h\":null,\"s\":\"$undefined\",\"l\":\"$undefined\",\"p\":\"$undefined\",\"d\":\"$undefined\"}\n"])</script><script>self.__next_f.push([1,"f:[]\n9:\"$Wf\"\n2:[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"optimisticai_d4925249-module__WZtcjq__variable optimisticmono_9b82a078-module__hMSRWa__variable light\",\"children\":[[\"$\",\"head\",null,{\"children\":[\"$\",\"script\",null,{\"suppressHydrationWarning\":true,\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var d=document.documentElement,m=window.matchMedia(\\\"(prefers-color-scheme: dark)\\\");function a(){var c=d.classList;if(m.matches){c.remove(\\\"light\\\");c.add(\\\"dark\\\");}else{c.remove(\\\"dark\\\");c.add(\\\"light\\\");}}a();m.addEventListener(\\\"change\\\",a);}catch(e){}})()\"}}]}],[\"$\",\"body\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[null,[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]}]]}]\nb:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n8:null\nd:[]\n"])</script><script>self.__next_f.push([1,"10:I[389231,[\"/_next/static/chunks/2iu626gff_4cy.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"/_next/static/chunks/1iz7o0_0nhsj0.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"/_next/static/chunks/00v-gn59_u31t.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\",\"/_next/static/chunks/1hgne56kqq79v.js?dpl=dpl_7c9xUDu8i7GBYSme7EKczRQBBJuD\"],\"MarkdownViewer\",1]\n11:T1080,"])</script><script>self.__next_f.push([1,"# Hi, I'm Abdulrahman Fadl 👋\n### Data Analyst | Excel \u0026 Power BI Specialist\n\n![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\u0026weight=600\u0026size=22\u0026pause=1000\u0026color=0E75B6\u0026center=true\u0026vCenter=true\u0026width=600\u0026lines=Data+Analyst+Passionate+About+Data;Transforming+Data+Into+Insights;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;E-commerce+%26+Marketing+Analytics+Expert)\n\n---\n\n### 🚀 About Me\n\n\u003e I highly recommend Abdulrahman Fadl. He is passionate about Data Analysis and always eager to learn.\n\nI'm a results-driven Data Analyst from Sana'a, Yemen, with a solid background in system design and data organization. As part of the graduation project team, I worked as an assistant and implementer in developing an **E-commerce Marketing System**.\n\nCurrently enhancing my expertise through **Data Analytics training with Cisco Networking Academy**, gaining hands-on experience in data visualization and business intelligence.\n\n- 🔭 Working on: Real-world E-commerce Analytics Projects\n- 🌱 Learning: Advanced Power BI, SQL \u0026 Python for Data Analysis\n- 🎯 Goal: To become a top-tier Remote Data Analyst helping businesses make data-driven decisions\n- 💡 Fun fact: I turn messy Excel sheets into beautiful, actionable dashboards!\n\n---\n\n### 🛠️ Tech Stack \u0026 Skills\n\n#### Data Analysis \u0026 Visualization\n![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\u0026logo=microsoft-excel\u0026logoColor=white)\n![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\u0026logo=powerbi\u0026logoColor=black)\n![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\u0026logo=mysql\u0026logoColor=white)\n![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\u0026logo=python\u0026logoColor=white)\n\n#### Tools \u0026 Platforms\n![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\u0026logo=github\u0026logoColor=white)\n![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge\u0026logo=cisco\u0026logoColor=white)\n![Data Visualization](https://img.shields.io/badge/Data_Viz-FF6B6B?style=for-the-badge\u0026logo=chartdotjs\u0026logoColor=white)\n\n- **Data Cleaning \u0026 Organization**\n- **System Design \u0026 Data Modeling**\n- **Dashboard Design \u0026 Reporting**\n- **E-commerce \u0026 Marketing Analytics**\n- **Business Intelligence**\n\n---\n\n### 📊 Featured Projects\n\n#### 🛒 1. E-commerce Marketing System (Graduation Project)\n\u003e **Role:** Assistant \u0026 Implementer | System Design and Data Organization\n- Designed and implemented database structure for an online marketing platform\n- Organized and cleaned large datasets for marketing analysis\n- Built reports to track sales performance and customer behavior\n- **Tools:** System Design, Data Organization, Excel\n\n#### 📈 2. Sales Performance Dashboard - Power BI\n- Created an interactive dashboard to analyze sales trends, top products, and revenue\n- Used DAX for advanced calculations and KPIs\n- **Tools:** Power BI, Excel, Data Visualization\n\n#### 🧹 3. Data Cleaning \u0026 Analysis Project - Cisco\n- Gained hands-on experience in Excel and Power BI through Cisco Networking Academy training\n- Transformed raw data into clean, actionable insights\n- **Tools:** Excel, Power BI\n\n\u003e *More projects coming soon - Stay tuned!*\n\n---\n\n### 📈 GitHub Stats\n\n\u003cp align=\"center\"\u003e\n  \u003cimg src=\"https://github-readme-stats.vercel.app/api?username=Abdualrhman123321\u0026show_icons=true\u0026theme=tokyonight\" alt=\"GitHub Stats\" height=\"160\"/\u003e\n  \u003cimg src=\"https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321\u0026theme=tokyonight\" alt=\"Streak Stats\" height=\"160\"/\u003e\n\u003c/p\u003e\n\n---\n\n### 📫 Let's Connect \u0026 Collaborate!\n\nI'm open to freelance, remote Data Analyst roles and collaborations.\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\u0026logo=linkedin\u0026logoColor=white)](https://www.linkedin.com/in/abdulrahman-al-ghrasi)\n[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\u0026logo=gmail\u0026logoColor=white)](mailto:your-email@gmail.com)\n[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\u0026logo=About.me\u0026logoColor=white)](#)\n\n\u003e \"Data is the new oil, but insights are the refinery.\" - Let's refine your data together!\n\n---\n\n\u003cp align=\"center\"\u003e⭐ From Yemen with data passion 🇾🇪\u003c/p\u003e\n"])</script><script>self.__next_f.push([1,"5:[\"$\",\"$L10\",null,{\"content\":\"$11\",\"contentRef\":\"$undefined\",\"editable\":false,\"thumbnailZoom\":null}]\n"])</script></body></html>
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
