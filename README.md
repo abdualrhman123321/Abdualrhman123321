@@ -1,5 +1,4 @@
-
-readme_content = '''<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║         EXCLUSIVE WHITE THEME - ANIMATED HERO                 ║ -->
