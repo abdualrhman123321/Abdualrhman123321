@@ -1,5 +1,4 @@
-
-readme_content = '''<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║         ULTIMATE DATA ANALYST PROFILE README                  ║ -->
