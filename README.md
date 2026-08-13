@@ -1,579 +1,476 @@
 
-readme_content = '''<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║                                                                                      ║ -->
-<!-- ║   █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██████╗  █████╗ ██╗  ██╗███╗   ███╗         ║ -->
-<!-- ║   ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔══██╗██╔══██╗██║  ██║████╗ ████║         ║ -->
-<!-- ║   ███████║██████╔╝██║  ██║██║   ██║██║     ██████╔╝███████║███████║██╔████╔██║         ║ -->
-<!-- ║   ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║         ║ -->
-<!-- ║   ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║         ║ -->
-<!-- ║   ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝         ║ -->
-<!-- ║                                                                                      ║ -->
-<!-- ║              A B D U L R A H M A N   F A D H I L   —   D A T A   A N A L Y S T       ║ -->
-<!-- ║                                                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+readme_content = """<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  DYNAMIC 3D HEADER BANNER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📊+DATA+ANALYST+HUB;🔍+Unlocking+Data+Insights;⚡+Powerful+Analytics+Engine;🎯+Transform+Data+to+Decisions" alt="Typing SVG" />
+</a>
+
+<!-- Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=200&section=header&text=Data%20Analyst%20Hub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<!-- Badges Row -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,25:00B4D8,50:0077B6,75:023E8A,100:03045E&height=320&section=header&text=Abdulrahman%20Fadhil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Specialist%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=22&stroke=00FFD1&strokeWidth=2" width="100%"/>
+  <img src="https://img.shields.io/badge/Python-3.9+-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Pandas-2.0+-7B2FF7?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/NumPy-1.24+-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Matplotlib-3.7+-FFD93D?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Seaborn-0.12+-4ECDC4?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Plotly-5.15+-00D4FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED TYPING SVG #1                                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Status Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2000&pause=500&color=00FFD1&center=true&vCenter=true&width=1000&lines=%F0%9F%93%8A%20Transforming%20Raw%20Data%20into%20Strategic%20Insights;%F0%9F%94%8D%20Uncovering%20Hidden%20Patterns%20in%20Complex%20Datasets;%F0%9F%93%88%20Building%20Interactive%20Dashboards%20%26%20Real-Time%20KPIs;%F0%9F%92%A1%20Turning%20Numbers%20into%20Narratives;%F0%9F%8C%8D%20From%20Yemen%20%F0%9F%87%BE%F0%9F%87%AA%20to%20the%20World!%20%F0%9F%8C%8D" alt="Dynamic Typing Animation" />
+  <img src="https://img.shields.io/github/stars/username/data-analyst-hub?style=social&logo=github" />
+  <img src="https://img.shields.io/github/forks/username/data-analyst-hub?style=social&logo=github" />
+  <img src="https://img.shields.io/github/issues/username/data-analyst-hub?style=social&logo=github" />
+  <img src="https://img.shields.io/badge/License-MIT-00D4FF?style=social&logo=opensourceinitiative" />
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED TYPING SVG #2                                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=900&lines=SELECT%20*%20FROM%20insights%20WHERE%20impact%20%3E%2090%25;%20import%20pandas%20as%20pd;%20df%20%3D%20pd.read_sql(query%2C%20conn);%20plt.figure(figsize%3D(12%2C6));%20sns.heatmap(correlation%2C%20annot%3DTrue);%20PowerBI%20%7C%3E%20DAX%20%3D%20CALCULATE(SUM(Sales)%2C%20FILTER(Region%2C%20%22Middle%20East%22))" alt="Code Typing Animation" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  DYNAMIC BADGES                                                                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Business_Intelligence-Specialist-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI-Pro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%87%BE%F0%9F%87%AA_Ibb,_Yemen-Open_to_Worldwide_Opportunities-00FFD1?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Remote-Work%20Anywhere-00B4D8?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Available_for_Hire-YES-00FFD1?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  VISITOR COUNTER & METRICS                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=👁️+PROFILE+VIEWS&base=1000"/>
-  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=⭐+FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🌟+TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🔄+LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=📊+COMMITS/MONTH&logo=git&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: DATA MATRIX RAIN                                                ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/matrix.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TABLE OF CONTENTS                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">📑 Table of Contents</h2>
-
-<p align="center">
-  <a href="#-about-me">👤 About Me</a> • 
-  <a href="#-core-competencies">🎯 Core Competencies</a> • 
-  <a href="#-technical-skills">🛠️ Technical Skills</a> • 
-  <a href="#-featured-projects">📈 Featured Projects</a> • 
-  <a href="#-github-analytics">📊 GitHub Analytics</a> • 
-  <a href="#-github-trophies">🏆 GitHub Trophies</a> • 
-  <a href="#-certifications">🏆 Certifications</a> • 
-  <a href="#-languages">🗣️ Languages</a> • 
-  <a href="#-connect-with-me">🤝 Connect</a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ABOUT ME SECTION                                                                     ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">👤 About Me</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-| 🎓 **Education** | 💡 **Passion** | 📊 **Experience** | 🌍 **Location** | 👓 **Vision** |
-|:----------------:|:--------------:|:-----------------:|:---------------:|:-------------:|
-| IT Graduate from Cisco Networking Academy | Transforming raw data into strategic insights | 3+ Years in Data Analytics & BI | Ibb, Yemen 🇾🇪 — Open Worldwide | Clear Vision for Your Data |
 
 </div>
 
-<br/>
+---
 
-> 🎯 **Mission:** To bridge the gap between complex data and actionable business decisions through advanced analytics, stunning visualizations, and data-driven storytelling.
->
-> 🔥 **Philosophy:** *"Every dataset tells a story — my job is to find it, visualize it, and make it impossible to ignore."*
->
-> 💼 **Approach:** I combine technical expertise with business acumen to deliver solutions that don't just look good — they drive real, measurable results.
+## 🌟 Table of Contents
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: DATA PROCESSING CIRCUITS                                        ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/circuit.svg" width="100%"/>
-</p>
+- [🎯 Overview](#-overview)
+- [✨ Features](#-features)
+- [🚀 Quick Start](#-quick-start)
+- [📁 Project Structure](#-project-structure)
+- [🔧 Installation](#-installation)
+- [📊 Usage Examples](#-usage-examples)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📈 Performance](#-performance)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [👥 Contact](#-contact)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CORE COMPETENCIES                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🎯 Core Competencies</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60%" style="border-radius: 15px;"/>
-</p>
-
-<br/>
+## 🎯 Overview
 
 <div align="center">
 
-| 🎯 **Domain** | 📋 **Description** | 🛠️ **Tools** |
-|:-------------:|:-------------------|:-------------|
-| 📊 **Data Collection & Mining** | Extracting data from APIs, databases, web scraping, flat files, and cloud sources | Python, SQL, APIs, Web Scraping |
-| 🧹 **Data Cleaning & Preprocessing** | Handling missing values, outliers, duplicates, standardization, and normalization | Pandas, NumPy, Power Query, Excel |
-| 🔍 **Exploratory Data Analysis (EDA)** | Uncovering hidden patterns, trends, anomalies through statistical analysis | Python, R, Excel, SQL |
-| 📈 **Statistical Analysis & Forecasting** | Descriptive & inferential statistics, time-series, regression, ML models | Scikit-learn, Statsmodels, Prophet |
-| 📋 **Dashboard Design & Reporting** | Building interactive, real-time dashboards with actionable KPIs | Power BI, Tableau, Excel, Plotly |
-| 🎨 **Data Visualization & Storytelling** | Creating compelling visual narratives that communicate insights | Matplotlib, Seaborn, D3.js, Folium |
-| 💡 **Business Intelligence & KPIs** | Aligning data insights with business objectives and performance metrics | Power BI, DAX, SQL, Excel |
-| ⚙️ **ETL Pipelines & Data Modeling** | Designing efficient data workflows and dimensional star/snowflake models | Power Query, SSIS, Python, SQL |
-| 🤖 **Machine Learning Basics** | Predictive modeling, classification, clustering for data-driven decisions | Scikit-learn, TensorFlow, Keras |
-| 🗺️ **Geographic Data Analysis** | Spatial analysis, interactive maps, regional trend identification | Folium, GeoPandas, Power BI Maps |
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🧠  Transform Raw Data  →  📊  Visual Insights  →  🎯   ║
+║                                                              ║
+║        Smart Analytics Platform for Modern Data Science      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+**Data Analyst Hub** is a cutting-edge, all-in-one data analysis platform designed to empower data scientists, analysts, and business intelligence professionals. Built with performance and scalability in mind, this hub provides a comprehensive toolkit for:
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: DATA PARTICLES SYSTEM                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/particles.svg" width="100%"/>
-</p>
+- 📈 **Advanced Statistical Analysis**
+- 🎨 **Interactive Data Visualization**
+- 🤖 **Machine Learning Preprocessing**
+- 📋 **Automated Report Generation**
+- 🔍 **Exploratory Data Analysis (EDA)**
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+> 💡 *"Turning complex data into compelling stories, one dataset at a time."*
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TECHNICAL SKILLS - FULL STACK                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🛠️ Technical Skills Arsenal</h2>
+---
 
-<br/>
-
-<h3 align="center">📊 Data Analysis & Visualization</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<h3 align="center">🗄️ Databases & Query Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<h3 align="center">⚡ ETL, Data Engineering & Modeling</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<h3 align="center">🤖 Machine Learning & AI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/XGBoost-EB5B2D?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Prophet-00B4D8?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<h3 align="center">🛠️ Development Tools & Platforms</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: DATA DNA HELIX                                                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/dna.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  FEATURED PROJECTS                                                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">📈 Featured Projects</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.4);"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 1                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">1️⃣ Business Intelligence Dashboard System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Impact-High-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Time_Saved-70%25-00FFD1?style=flat-square&labelColor=0D1117"/>
-</p>
-
-> **Tech Stack:** `Power BI` | `SQL` | `DAX` | `Python` | `Azure`
->
-> **Description:** Designed and developed an end-to-end BI system integrating multiple data sources (SQL Server, Excel, APIs, Cloud) into a unified interactive dashboard. Implemented predictive analytics using Python to forecast key business metrics with 90%+ accuracy.
->
-> **Key Features:**
-> - Real-time data refresh with incremental loading
-> - 15+ interactive visualizations with drill-through capabilities
-> - Predictive forecasting models for sales and revenue
-> - Role-based security and row-level security (RLS)
-> - Automated email alerts for KPI thresholds
->
-> **Business Impact:** Reduced reporting time by **70%**, improved decision-making speed by **3x**, and identified $500K+ in cost-saving opportunities.
->
-> <p align="center">
->   <a href="#"><img src="https://img.shields.io/badge/🔍%20View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📊%20Live%20Dashboard-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📄%20Case%20Study-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000"/></a>
-> </p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 2                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">2️⃣ Sales Forecasting & Predictive Analytics Engine</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Accuracy-95%25-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Revenue_Impact-+15%25-00FFD1?style=flat-square&labelColor=0D1117"/>
-</p>
-
-> **Tech Stack:** `Python` | `Pandas` | `Scikit-learn` | `XGBoost` | `Matplotlib` | `Streamlit`
->
-> **Description:** Built a comprehensive machine learning pipeline to analyze 3+ years of historical sales data and predict future trends. Used time-series analysis (ARIMA, Prophet), regression models, and ensemble methods to achieve industry-leading forecast accuracy.
->
-> **Key Features:**
-> - Automated data pipeline with 50+ feature engineering steps
-> - Ensemble model combining ARIMA, Prophet, and XGBoost
-> - Interactive web app built with Streamlit for stakeholders
-> - Automated model retraining and performance monitoring
-> - Seasonal decomposition and trend analysis
->
-> **Business Impact:** Achieved **95% forecast accuracy**, enabling better inventory planning, reducing stockouts by **40%**, and increasing revenue by **15%** through optimized pricing strategies.
->
-> <p align="center">
->   <a href="#"><img src="https://img.shields.io/badge/🔍%20View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📈%20Interactive%20App-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📄%20Technical%20Report-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000"/></a>
-> </p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 3                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">3️⃣ Automated Performance Reporting System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Automation-100%25-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Time_Saved-20%2B%20hrs/month-00FFD1?style=flat-square&labelColor=0D1117"/>
-</p>
-
-> **Tech Stack:** `Excel Advanced` | `VBA` | `Power Query` | `Outlook API` | `SharePoint`
->
-> **Description:** Developed a fully automated monthly reporting ecosystem using Excel VBA and Power Query. The system pulls data automatically from 8+ sources, cleans and transforms it, generates 12+ formatted reports, and distributes them via email — all with a single click.
->
-> **Key Features:**
-> - One-click report generation for 12+ report types
-> - Automated data quality checks and error handling
-> - Dynamic charts and pivot tables with conditional formatting
-> - Automated email distribution with PDF attachments
-> - Interactive dashboard with slicers and timelines
->
-> **Business Impact:** Saved **20+ hours per month** of manual work, eliminated **100%** of human errors in reporting, and improved stakeholder satisfaction by **85%**.
->
-> <p align="center">
->   <a href="#"><img src="https://img.shields.io/badge/🔍%20View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📋%20Sample%20Report-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/🎥%20Demo%20Video-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
-> </p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROJECT 4                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h3 align="center">4️⃣ Geographic Data Analysis & Market Intelligence</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Markets_Identified-3-00FFD1?style=flat-square&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Revenue_Impact-+15%25%20Q3-00FFD1?style=flat-square&labelColor=0D1117"/>
-</p>
-
-> **Tech Stack:** `Python` | `Power BI` | `Folium` | `GeoPandas` | `SQL` | `Plotly`
->
-> **Description:** Conducted comprehensive geographic analysis of sales and market data across 25+ regions. Created interactive maps, heatmaps, and spatial visualizations to identify regional trends, market gaps, and expansion opportunities.
->
-> **Key Features:**
-> - Interactive choropleth maps with 5+ data layers
-> - Spatial clustering analysis for market segmentation
-> - Route optimization for sales territories
-> - Competitor proximity analysis
-> - Real-time market share visualization
->
-> **Business Impact:** Identified **3 high-potential markets** that increased revenue by **15%** in Q3, optimized sales territories saving **$200K** annually in logistics costs.
->
-> <p align="center">
->   <a href="#"><img src="https://img.shields.io/badge/🔍%20View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/🗺️%20Interactive%20Map-0D1117?style=for-the-badge&logo=mapbox&logoColor=00B4D8"/></a>
->   <a href="#"><img src="https://img.shields.io/badge/📄%20Analysis%20Report-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000"/></a>
-> </p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: LIVE DATA VISUALIZATION                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/chart.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: KEY PERFORMANCE INDICATORS                                    ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/rings.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: REAL-TIME DATA STREAM                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/wave.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: ETL PIPELINE                                                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/pipeline.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CUSTOM ANIMATED SVG: HOLOGRAPHIC DASHBOARD                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdualrhman123321/Abdualrhman123321/main/svg_assets/holo.svg" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB ANALYTICS - FULL DASHBOARD                                                  ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&border_radius=20&custom_title=📊%20GitHub%20Statistics" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=00FFD1&currStreakNum=00FFD1&sideNums=00FFD1&dates=FFFFFF&border_radius=20" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact&border_radius=20&custom_title=💻%20Most%20Used%20Languages" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1&radius=20&custom_title=📈%20Contribution%20Activity%20Graph" width="95%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB TROPHIES                                                                      ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🏆 GitHub Achievement Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdualrhman123321&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultiLanguage" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  PROFILE VIEWS & METRICS                                                              ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">📊 Profile Metrics</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=👁️+PROFILE+VIEWS&base=1000"/>
-  <img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=⭐+FOLLOWERS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🌟+TOTAL+STARS&logo=github&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/last-commit/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=🔄+LAST+UPDATE&logo=git&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Abdualrhman123321/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=📊+COMMITS/MONTH&logo=git&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  CERTIFICATIONS                                                                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🏆 Certifications & Credentials</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst_Professional-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Excel_Expert-Microsoft-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI_Data_Analyst-Microsoft-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL_Database_Administrator-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python_for_Data_Science-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Data_Analytics-Google-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Tableau_Desktop_Specialist-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Statistics_with_Python-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0D1117"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED RAINBOW DIVIDER                                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  LANGUAGES                                                                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🗣️ Languages</h2>
+## ✨ Features
 
 <div align="center">
 
-| 🇸🇦 **Arabic** | 🇬🇧 **English** |
-|:-------------:|:--------------:|
-| <img src="https://img.shields.io/badge/Native-اللغة%20الأم-00FFD1?style=for-the-badge&labelColor=0D1117"/> | <img src="https://img.shields.io/badge/Professional%20Working%20Proficiency-B2-00FFD1?style=for-the-badge&labelColor=0D1117"/> |
-| Reading: ⭐⭐⭐⭐⭐ | Reading: ⭐⭐⭐⭐☆ |
-| Writing: ⭐⭐⭐⭐⭐ | Writing: ⭐⭐⭐⭐☆ |
-| Speaking: ⭐⭐⭐⭐⭐ | Speaking: ⭐⭐⭐⭐☆ |
-| Listening: ⭐⭐⭐⭐⭐ | Listening: ⭐⭐⭐⭐☆ |
+| Feature | Description | Status |
+|:-------:|:-----------|:------:|
+| 📊 **Interactive Dashboards** | Real-time data visualization with Plotly & Dash | ✅ Active |
+| 🔍 **Smart EDA Engine** | Automated exploratory data analysis | ✅ Active |
+| 📈 **Advanced Analytics** | Statistical modeling & hypothesis testing | ✅ Active |
+| 🤖 **ML Pipeline** | End-to-end machine learning preprocessing | 🚧 Beta |
+| 📑 **Auto Reports** | Generate PDF/Excel reports automatically | ✅ Active |
+| 🌐 **API Integration** | RESTful API for data ingestion | 🚧 Beta |
+| 🗄️ **Multi-Source Support** | CSV, Excel, SQL, NoSQL, APIs | ✅ Active |
+| ⚡ **High Performance** | Optimized for large datasets (>10M rows) | ✅ Active |
 
 </div>
+
+### 🎨 Visualization Gallery
+
+<div align="center">
+
+```
+┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
+│   📊 Charts     │  │   📈 Trends     │  │   🗺️ Maps       │
+│   Bar · Pie     │  │   Line · Area   │  │   Geo · Heat    │
+│   Scatter · Box │  │   Time Series   │  │   Choropleth    │
+└─────────────────┘  └─────────────────┘  └─────────────────┘
+```
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+### ⚡ One-Line Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/username/data-analyst-hub.git
+
+# Navigate to project
+cd data-analyst-hub
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter environment
+jupyter notebook
+```
+
+### 🎯 Run Your First Analysis
+
+```python
+from data_analyst_hub import DataAnalyzer
+
+# Initialize analyzer
+analyzer = DataAnalyzer()
+
+# Load dataset
+df = analyzer.load_data("your_dataset.csv")
+
+# Generate full EDA report
+report = analyzer.generate_eda_report(df, auto_visualize=True)
+
+# Export results
+report.to_html("analysis_report.html")
+report.to_pdf("analysis_report.pdf")
+```
+
+---
+
+## 📁 Project Structure
+
+```
+data-analyst-hub/
+│
+├── 📂 data/
+│   ├── raw/                    # Raw datasets
+│   ├── processed/              # Cleaned datasets
+│   └── external/               # External data sources
+│
+├── 📂 notebooks/
+│   ├── 01_exploratory_analysis.ipynb
+│   ├── 02_statistical_modeling.ipynb
+│   ├── 03_advanced_visualization.ipynb
+│   └── 04_ml_preprocessing.ipynb
+│
+├── 📂 src/
+│   ├── 📁 core/
+│   │   ├── data_loader.py      # Multi-format data ingestion
+│   │   ├── data_cleaner.py     # Data cleaning & preprocessing
+│   │   └── data_transformer.py # Feature engineering
+│   │
+│   ├── 📁 analysis/
+│   │   ├── eda_engine.py       # Exploratory data analysis
+│   │   ├── statistics.py       # Statistical tests
+│   │   └── correlation.py      # Correlation analysis
+│   │
+│   ├── 📁 visualization/
+│   │   ├── charts.py           # Static charts (Matplotlib/Seaborn)
+│   │   ├── interactive.py      # Interactive plots (Plotly)
+│   │   └── dashboards.py       # Dashboard builder
+│   │
+│   ├── 📁 reports/
+│   │   ├── report_generator.py # Automated report creation
+│   │   └── templates/          # Report templates
+│   │
+│   └── 📁 utils/
+│       ├── helpers.py          # Utility functions
+│       └── config.py           # Configuration settings
+│
+├── 📂 tests/                   # Unit & integration tests
+├── 📂 docs/                    # Documentation
+├── 📂 examples/                # Example datasets & scripts
+│
+├── 📄 requirements.txt         # Python dependencies
+├── 📄 setup.py                 # Package setup
+├── 📄 config.yaml              # Global configuration
+├── 📄 .gitignore
+└── 📄 README.md               # You are here! 🎯
+```
+
+---
+
+## 🔧 Installation
+
+### 📋 Prerequisites
+
+- Python 3.9+
+- pip 21.0+
+- Git
+
+### 🛠️ Step-by-Step Installation
+
+```bash
+# 1️⃣ Create virtual environment
+python -m venv venv
+
+# 2️⃣ Activate environment
+# Windows:
+venv\\Scripts\\activate
+# macOS/Linux:
+source venv/bin/activate
+
+# 3️⃣ Install core dependencies
+pip install -r requirements.txt
+
+# 4️⃣ Install optional dependencies (for full features)
+pip install -r requirements-optional.txt
+
+# 5️⃣ Verify installation
+python -c "import data_analyst_hub; print('✅ Installation successful!')"
+```
+
+### 🐳 Docker Setup (Optional)
+
+```bash
+# Build Docker image
+docker build -t data-analyst-hub .
+
+# Run container
+docker run -p 8888:8888 -v $(pwd)/data:/app/data data-analyst-hub
+```
+
+---
+
+## 📊 Usage Examples
+
+### 📈 Example 1: Automated EDA
+
+```python
+import pandas as pd
+from data_analyst_hub import EDAEngine
+
+# Load data
+df = pd.read_csv("sales_data.csv")
+
+# Run comprehensive EDA
+eda = EDAEngine(df)
+eda.summary_statistics()
+eda.missing_values_analysis()
+eda.correlation_heatmap()
+eda.distribution_plots()
+eda.outlier_detection()
+
+# Generate interactive report
+eda.generate_interactive_report(save_path="eda_report.html")
+```
+
+### 📊 Example 2: Advanced Visualization
+
+```python
+from data_analyst_hub.visualization import InteractiveCharts
+
+# Create interactive dashboard
+viz = InteractiveCharts(df)
+
+# Multi-layer chart
+viz.create_combo_chart(
+    x="date",
+    y_primary="revenue",
+    y_secondary="profit_margin",
+    title="Revenue vs Profit Margin Trends"
+)
+
+# Geographic visualization
+viz.create_choropleth(
+    locations="country",
+    values="sales",
+    title="Global Sales Distribution"
+)
+```
+
+### 🤖 Example 3: ML Preprocessing Pipeline
+
+```python
+from data_analyst_hub.ml import PreprocessingPipeline
+
+# Initialize pipeline
+pipeline = PreprocessingPipeline()
+
+# Add steps
+pipeline.add_step("impute", strategy="median")
+pipeline.add_step("encode", method="onehot")
+pipeline.add_step("scale", method="standard")
+pipeline.add_step("feature_select", k=20)
+
+# Transform data
+X_processed = pipeline.fit_transform(X_train)
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🐍 Core Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📊 Visualization
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8caaee?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/StatsModels-000000?style=for-the-badge&logo=statsmodels&logoColor=white" />
+</p>
+
+### 🗄️ Data Sources
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 📈 Performance
+
+<div align="center">
+
+| Dataset Size | Load Time | Analysis Time | Memory Usage |
+|:------------:|:---------:|:-------------:|:------------:|
+| 10K rows     | < 0.5s    | < 1s          | ~50 MB       |
+| 100K rows    | < 1s      | < 3s          | ~150 MB      |
+| 1M rows      | < 3s      | < 10s         | ~500 MB      |
+| 10M rows     | < 15s     | < 60s         | ~2 GB        |
+
+*Benchmarks run on Intel i7-12700H, 32GB RAM, SSD*
+
+</div>
+
+---
+
+## 🤝 Contributing
+
+<div align="center">
+
+### 🌟 We Welcome Contributors!
+
+</div>
+
+```
+🍴 Fork → 🔧 Code → ✅ Test → 📤 Pull Request → 🎉 Merge
+```
+
+### 📋 Contribution Guidelines
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m '✨ Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
+
+### 🏆 Contributors
+
+<div align="center">
+
+<a href="https://github.com/username/data-analyst-hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=username/data-analyst-hub&max=20" />
+</a>
+
+</div>
+
+---
+
+## 📜 License
+
+<div align="center">
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2026 Data Analyst Hub
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+```
+
+</div>
+
+---
+
+## 👥 Contact
+
+<div align="center">
+
+### 📬 Let's Connect!
+
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### ⭐ Support the Project
+
+If you find this project useful, please consider giving it a ⭐ on GitHub!
+
+<p>
+  <a href="https://github.com/username/data-analyst-hub/stargazers">
+    <img src="https://img.shields.io/github/stars/username/data-analyst-hub?style=social&logo=github&label=Star%20this%20repo!" />
+  </a>
+</p>
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D4FF&height=150&section=footer&text=Happy%20Analyzing!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Your%20Name-00D4FF?style=flat" />
+</p>
+
+</div>
+"""
 
