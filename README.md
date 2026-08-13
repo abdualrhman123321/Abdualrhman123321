@@ -473,4 +473,5 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 
 </div>
 """
-
+ed successfully!")
+print(f"📄 File size: {len(readme_content)} characters")
