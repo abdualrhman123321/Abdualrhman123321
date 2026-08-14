@@ -58,13 +58,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=About+Me" alt="About Me"/>
-</div>
-
-
-  
-<br>
- 
-
 Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
 
 IT graduate passionate about Data Analysis & Business Intelligence.
