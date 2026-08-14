@@ -137,7 +137,7 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
   <br><br>
 
   <!-- ═══════ الإحصائيات + الستريك ═══════ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdualrhman123321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00FFD1&text_color=FFFFFF&include_all_commits=true" height="170"/>
+  
   
   &nbsp;&nbsp;
   
