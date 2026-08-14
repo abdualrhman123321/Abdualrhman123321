@@ -69,9 +69,7 @@
 <br/>
 
 <!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+
 
 <br/>
 
@@ -106,20 +104,16 @@
 <!-- اللغات -->
 <div align="center">
   
-## 🗣️ Languages
+ 🗣️ Languages
 
-| 🇸🇦 Arabic | 🇬🇧 English |
-|-----------|------------|
-| Native - اللغة الأم | Professional Working (B2) |
+ 🇸🇦 Arabic 
+ 🇬🇧 English 
 
 </div>
 
 <br/>
 
 <!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 <br/>
 
@@ -166,11 +160,7 @@
 <br/>
 
 <!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-<br/>
 
 <!-- الشهادات -->
 
@@ -184,30 +174,12 @@
 
 
 <!-- إحصائيات الملف -->
-<div align="center">
-  
-## 📊 Profile Statistics
 
-<img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=TOTAL+STARS"/>
-
-</div>
 
 <br/>
 
 <!-- خط فاصل -->
-<div align="center">
-  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
-</div>
 
-<!-- سبوتيفاي -->
-
-
-<!-- خط فاصل -->
-<div align="center">
-  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
-</div>
 <!-- التواصل -->
 <div align="center">
   
