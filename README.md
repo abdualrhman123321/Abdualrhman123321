@@ -140,7 +140,7 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <div align="center">
 
   <!-- ═══════ عنوان GitHub Statistics ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=📊+GitHub+Statistics" alt="GitHub Statistics"/>
+  
 
   <br><br>
 
