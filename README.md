@@ -86,7 +86,7 @@ Let's connect!
 
 
 
-<ة
+
 
 <!-- صور متحركة إضافية -->
 
@@ -97,7 +97,7 @@ Let's connect!
 <!-- إحصائيات جيت هب -->
 <div align="center">
   
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" width="48%"/>
@@ -110,26 +110,6 @@ Let's connect!
 </div>
 
 <br/>
-
-<!-- خط فاصل -->
-
-
-<!-- الشهادات -->
-
-<br/>
-
-<!-- خط فاصل -->
-
-
-
-<!-- إحصائيات الملف -->
-
-
-<br/>
-
-<!-- خط فاصل -->
-
-<!-- التواصل -->
 
 <br/>
 
