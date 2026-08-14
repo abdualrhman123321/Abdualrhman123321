@@ -106,12 +106,12 @@ Let's connect!
 <div align="center">
 
   <!-- ═══════ عنوان GitHub Statistics ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=📊+GitHub+Statistics" alt="GitHub Statistics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=GitHub+Statistics" alt="GitHub Statistics"/>
 
   <br><br>
 
   <!-- ═══════ الإحصائيات العلوية ═══════ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdualrhman123321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00FFD1&text_color=FFFFFF" height="170"/>
+  
   
   &nbsp;&nbsp;
   
