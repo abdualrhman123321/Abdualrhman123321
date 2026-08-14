@@ -50,9 +50,9 @@
 <!-- معلومات شخصية مرتبة -->
 <div align="center">
   
-## 👤 Abdulrahman Fadhil
-### 📊 Data Analyst | Excel, Power BI, SQL & Python
-### 🇾🇪 Ibb, Yemen | 🌍 Open to opportunities worldwide
+👤 Abdulrahman Fadhl
+ 📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
+ 🌍 Open to opportunities worldwide
 
 </div>
 
