@@ -52,35 +52,6 @@
 
 </div>
 
-<br/>
-
-### ⚡ About Me
-
-**Data Analyst | Excel, Power BI & SQL & Python, Pandas**
-
-IT graduate passionate about Data Analysis. I don't just analyze data. I refine it into decisions, strategies, and growth. From chaotic spreadsheets to clean dashboards that speak.
-
-<div align="center">
-  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
-</div>
-
-### 🚀 What I Do
-- **Data Cleaning & Transformation:** Turning messy data into gold with Python, SQL & Advanced Excel
-- **Visualization & Storytelling:** Building Power BI dashboards that executives actually understand
-- **Business Intelligence:** 90+ WPM, 99% Accuracy - Speed meets precision
-
-<div align="center">
-  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
-</div>
-
-<div align="center">
-  
-  **"Every dataset has a story. I make sure it's told correctly."**
-
-  <br/><br/>
-  **© 2025 Abdulrahman Fadhil | Data Analyst**
-
-</div>
 
 
 
