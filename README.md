@@ -1,9 +1,6 @@
 
 
 <!-- خلفية متحركة علوية - نفس العرض الكامل -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2);"/>
-
-<br/><br/>
 
 <!-- أنيميشن ترحيبي --><div align="center">
 
