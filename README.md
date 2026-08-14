@@ -19,9 +19,7 @@
   
 <br> 📊<be/>
 
-  Data Analysis | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
-  <br>🌍<be/>
- <br> Open to opportunities worldwide<be/>
+  Data Analysis | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business IInsights
 
 </div>
 
@@ -56,7 +54,10 @@
 <!-- نبذة عني -->
 <div align="center">
  <br >
-  📝 About Me
+  <h1 align="center">   📝 About Me </h1>     
+
+
+  
 <br>
  
 
