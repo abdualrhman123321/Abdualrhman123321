@@ -109,16 +109,15 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Pandas</b></sub>
 </td>
 <td align="center" width="95">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Excel</b></sub>
+<img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Excel</b></sub>
 </td>
 <td align="center" width="95">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Matplotlib</b></sub>
+<img src="https://img.icons8.com/color/48/matplotlib.png" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Matplotlib</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
-
   
 
 
