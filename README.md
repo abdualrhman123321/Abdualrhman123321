@@ -37,17 +37,10 @@
 
 
 <div align="center">
-  <div style="height: 1px; width: 70%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+  <a href="https://linkedin.com/in/abdulrahman-fadhil"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" style="margin: 0 5px;"/></a>
+  <a href="mailto:abdulrhman.fadhil@outlook.com"><img src="https://img.icons8.com/fluency/48/gmail--v1.png" width="40" style="margin: 0 5px; border-radius: 50%;"/></a>
+  <a href="https://wa.me/967777XXXXXX"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="40" style="margin: 0 5px;"/></a>
 </div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-fadhil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhman.fadhil@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967777XXXXXX)
-
-</div>
-
 
 
 
@@ -79,7 +72,7 @@ I hunt for hidden patterns and turn them into dashboards anyone can understand.
 Data without understanding is just numbers.
 Understanding without data is just an opinion.
 
-Abdulrahman Fadhil | Where Numbers Meet Decisions.
+Abdulrahman Fadhl | Where Numbers Meet Decisions.
 </div>
 
 <br/>
