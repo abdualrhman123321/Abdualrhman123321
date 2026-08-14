@@ -36,12 +36,21 @@
 
 <!-- معلومات شخصية مرتبة -->
 <div align="center">
-  
 
-
-  Data Analysis | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business IInsights
+  <a href="https://linkedin.com/in/abdulrahman-fadhil">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abdulrhman.fadhil@outlook.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/967777XXXXXX">
+    <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366"/>
+  </a>
 
 </div>
+
 
 
 
