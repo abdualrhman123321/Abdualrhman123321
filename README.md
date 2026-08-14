@@ -37,9 +37,9 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/abdulrahman-fadhil"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" style="margin: 0 5px;"/></a>
-  <a href="mailto:abdulrhman.fadhil@outlook.com"><img src="https://img.icons8.com/fluency/48/gmail--v1.png" width="40" style="margin: 0 5px; border-radius: 50%;"/></a>
-  <a href="https://wa.me/967777XXXXXX"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="40" style="margin: 0 5px;"/></a>
+  <a href="https://linkedin.com/in/abdulrahman-fadhil"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" style="margin: 30px;"/></a>
+  <a href="mailto:abdulrhman.fadhil@outlook.com"><img src="https://img.icons8.com/fluency/48/gmail--v1.png" width="40" style="margin: 30px; border-radius: 50%;"/></a>
+  <a href="https://wa.me/967777XXXXXX"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="40" style="margin: 30px;"/></a>
 </div>
 
 
