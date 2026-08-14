@@ -100,7 +100,7 @@ Let's connect!
 
 <div align="center">
 
-  <h1><samp><font color="white">📊 GitHub Statistics</font></samp></h1>
+  <h1><samp><font color="white">GitHub Statistics</font></samp></h1>
 
   <br>
 
