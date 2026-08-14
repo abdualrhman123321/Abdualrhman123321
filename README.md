@@ -89,28 +89,34 @@
   
  📝 About Me
 
-> 🎓 IT Graduate from Cisco Networking Academy  
-> 💡 Passionate about Data Analysis & Business Intelligence  
-> 📊 3+ Years of Experience in Data Analytics  
-> 👓 Clear vision for your data - رؤية واضحة لبياناتك
+Data Analyst | Excel, Power BI & SQL
+
+IT graduate passionate about Data Analysis & Business Intelligence.
+
+I transform complex data into clear insights and interactive dashboards using Excel, Power BI, and SQL.
+
+Expertise: Data collection | Data Cleaning |  Data Research & Data Mining | Data Analysis | Dashboards | Reporting | Data Visualization | Business Insights
+
+Tools: Excel (Advanced) | Power BI | SQL | Power Query | DAX | Python (Pandas, Matplotlib)
+
+Open to Data Analyst opportunities worldwide.
+
+Let's connect!
 
 </div>
 
 <br/>
 
 <!-- خلفية متحركة وسطية ثانية - شخص مع كمبيوتر -->
-<div align="center" style="width: 100%;">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.3); border: 3px solid #00FFD1;"/>
-</div>
+<!-- Animated Data Analyst GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
+
+  <br>
 
 <br/>
 
 <!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-<br/>
 
 <!-- اللغات -->
 <div align="center">
