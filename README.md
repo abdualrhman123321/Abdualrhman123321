@@ -50,7 +50,7 @@
 <!-- معلومات شخصية مرتبة -->
 <div align="center">
   
-👤 Abdulrahman Fadhl
+
  📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
  <br>🌍 Open to opportunities worldwide<be/>
 
