@@ -92,7 +92,7 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <br/>
 <div align="center">
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 <table>
 <tr>
