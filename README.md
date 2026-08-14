@@ -137,6 +137,31 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 
 
 
+<div align="center">
+
+  <!-- ═══════ عنوان GitHub Statistics ═══════ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=📊+GitHub+Statistics" alt="GitHub Statistics"/>
+
+  <br><br>
+
+  <!-- ═══════ الإحصائيات + الستريك ═══════ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdualrhman123321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00FFD1&text_color=FFFFFF&include_all_commits=true" height="170"/>
+  
+  &nbsp;&nbsp;
+  
+  <img src="https://streak-stats.demolab.com?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
+
+  <br><br>
+
+  <!-- ═══════ اللغات الأكثر استخداماً ═══════ -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact" height="150"/>
+
+  <br><br>
+
+  <!-- ═══════ رسم المساهمات ═══════ -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true" width="90%"/>
+
+</div>
 
 <!-- صور متحركة إضافية --><div align="center">
 
