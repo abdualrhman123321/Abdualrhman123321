@@ -6,9 +6,7 @@
 <br/><br/>
 
 <!-- أنيميشن ترحيبي -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B;Abdulrahman+Fadhil+%7C+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
-<br/>
 
 <!-- شارات رئيسية -->
 
