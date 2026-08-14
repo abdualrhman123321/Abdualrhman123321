@@ -7,7 +7,7 @@
 <!-- أولاً: اسمك يظهر قبل كل شي -->
 
 
-div align="center">
+<div align="center">
 
   <!-- ═══════ خط توهج علوي ═══════ -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,100:0D1117&height=6&section=header" width="95%"/>
