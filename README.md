@@ -111,14 +111,6 @@ Let's connect!
   
 
   <!-- ═══════ الإحصائيات العلوية ═══════!-->
-  &nbsp;&nbsp;
-  
-  
-
-  <br><br>
-
-  <!-- ═══════ اللغات ═══════ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact" height="150"/>
 
   <br><br>
 
