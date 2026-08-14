@@ -55,7 +55,7 @@
 <div align="center">
  <br >
       <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=150&lines=README" alt="  📝 About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=150&lines=  📝 About Me" alt="  📝 About Me"/>
 </div>
 
 
