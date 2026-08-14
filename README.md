@@ -1,38 +1,5 @@
 
 
-<!-- خلفية متحركة علوية - نفس العرض الكامل -->
-<div align="center">
-
-  <!-- ═══════════════════════════════════════════════════════════════ -->
-  <!--                    اللافتة الجبارة — MEGA BANNER                 -->
-  <!-- ═══════════════════════════════════════════════════════════════ -->
-
-  <!-- خلفية فينوم ضخمة مع إطار توهج -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=مرحباً%20بمستقبل%20البيانات&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
-
-  <br><br>
-
-  <!-- أنيميشن المهارات — سريع وقوي -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2200&pause=400&color=00FFD1&center=true&vCenter=true&width=1000&lines=⚡+Data+Analyst;📊+Excel+Advanced+·+Power+BI+·+SQL+·+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data" alt="Skills Animation"/>
-  </a>
-
-  <br><br>
-
-  <!-- شارات الحالة — ضخمة ومتناسقة -->
-  <p>
-    <img src="https://img.shields.io/badge/🔥_Expert-Data_Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/⏱️_3+_Years-Experience-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/🟢_Open-Available-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
-  </p>
-
-  <br>
-
-  <!-- خط توهج سينمائي -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
-
-</div>
-
 <!-- أنيميشن ترحيبي --><div align="center">
 
 <!-- أولاً: اسمك يظهر قبل كل شي -->
@@ -45,7 +12,7 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
 
   <!-- خلفية فينوم ضخمة مع إطار توهج -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=مرحباً%20بمستقبل%20البيانات&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=DData%20Analyst&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
 
   <br><br>
 
