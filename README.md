@@ -69,7 +69,7 @@
 <!-- نبذة عني -->
 <div align="center">
   
-## 📝 About Me
+ 📝 About Me
 
 > 🎓 IT Graduate from Cisco Networking Academy  
 > 💡 Passionate about Data Analysis & Business Intelligence  
@@ -175,19 +175,37 @@
 
 <!-- التواصل -->
 <div align="center">
-  
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdulrhman.fadhil@outlook.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/967777XXXXXX)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdualrhman123321)
+<p>
+  <a href="https://linkedin.com/in/abdulrahman-fadhil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdulrhman.fadhil@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/967777XXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Abdualrhman123321">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
+</p>
 
 </div>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</p>
 
 <!-- خط فاصل -->
