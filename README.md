@@ -11,13 +11,7 @@
 <br/>
 
 <!-- شارات رئيسية -->
-<p>
-  <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI-Pro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-</p>
+
 
 </div>
 
