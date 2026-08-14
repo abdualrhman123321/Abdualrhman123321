@@ -50,7 +50,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=About+Me" alt="About Me"/>
 
   
-Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
+**Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
 
 IT graduate passionate about Data Analysis & Business Intelligence.
 
@@ -62,7 +62,7 @@ Tools: Excel (Advanced) | Power BI | SQL | Power Query | DAX | Python (Pandas, M
 
 Open to Data Analyst opportunities worldwide.
 
-Let's connect!
+Let's connect!**
 
 </div>
 
@@ -115,7 +115,7 @@ Let's connect!
 
   
   
-  **⚡ Data is the new oil, and I'm the refinery.**
+  **⚡ Data is the new oil, and I'm the refinery**
   
   **© 2025 Abdulrahman Fadhil | Data Analyst**
 </div>
