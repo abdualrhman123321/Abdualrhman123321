@@ -232,67 +232,6 @@
 
 </div>
 
-<br/>
+
 
 <!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- خاتمة -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+I'm+the+refinery.;Turning+Raw+Data+into+Clear+Decisions." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdualrhamnm@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117)](https://github.com/abdualrhm)
-
-</div>
-
-<br/>
-
-### ⚡ Data is the new oil, and I'm the refinery
-
-> I don't just analyze data. I refine it into decisions, strategies, and growth.
-> From chaotic spreadsheets to clean dashboards that speak.
-
-<br/>
-
-**© 2025 Abdulrahman Fadhil | Data Analyst**
-
-**👓 Data Analyst with Glasses - Clarity in Every Dataset**
-**📊 Crafting the Future with Data | Where Numbers Become Stories**
-
----
-
-### 🚀 What I Do
-
-- **Data Cleaning & Transformation:** Turning messy data into gold with Python, SQL & Advanced Excel
-- **Visualization & Storytelling:** Building Power BI dashboards that executives actually understand
-- **Business Intelligence:** 90+ WPM, 99% Accuracy - Speed meets precision
-- **Automation:** Reducing manual work by 25%+ with smart workflows
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-  
-  **"Every dataset has a story. I make sure it's told correctly."**
-
-</div>
