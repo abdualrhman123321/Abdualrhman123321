@@ -9,39 +9,36 @@
 
 <div align="center">
 
-  <!-- ═══════ خط توهج علوي ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,100:0D1117&height=6&section=header" width="95%"/>
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!--                    اللافتة الجبارة — MEGA BANNER                 -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+
+  <!-- خلفية فينوم ضخمة مع إطار توهج -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=مرحباً%20بمستقبل%20البيانات&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
 
   <br><br>
 
-  <!-- ═══════ اللافتة الرئيسية — الخط الأقوى ═══════ -->
+  <!-- أنيميشن المهارات — سريع وقوي -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=80&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&width=1200&height=200&lines=I'm+Abdualrahman;مرحباً+بمستقبل+البيانات&background=0D1117" alt="Super Banner"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2200&pause=400&color=00FFD1&center=true&vCenter=true&width=1000&lines=⚡+Data+Analyst;📊+Excel+Advanced+·+Power+BI+·+SQL+·+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data" alt="Skills Animation"/>
   </a>
 
   <br><br>
 
-  <!-- ═══════ خط توهج سفلي ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FFD1&height=6&section=footer" width="95%"/>
+  <!-- شارات الحالة — ضخمة ومتناسقة -->
+  <p>
+    <img src="https://img.shields.io/badge/🔥_Expert-Data_Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/⏱️_3+_Years-Experience-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/🟢_Open-Available-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
+  </p>
 
   <br>
 
-  <!-- ═══════ أنيميشن المهارات الثانوي ═══════ -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=300&color=FFFFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Excel+·+Power+BI+·+SQL+·+Python;From+Yemen+🇾🇪+To+The+World" alt="Skills Banner"/>
-  </a>
+  <!-- خط توهج سينمائي -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
 
 </div>
 
-
-<!-- شارات رئيسية -->
-
-
-</div>
-
-<br/>
-
-<!-- خط فاصل أنيق -->
 
 
 
