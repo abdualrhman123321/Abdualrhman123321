@@ -10,14 +10,12 @@
 <!-- أولاً: اسمك يظهر قبل كل شي -->
 <div align="center">
 
-  <!-- موجة علوية -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFD1,100:0D1117&height=250&section=header&fontSize=1" width="100%"/>
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!--              اللافتة المتحركة - Animated Banner                 -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <br/>
-
-  <!-- النص المتحرك فوق الموجة -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=4000&pause=700&color=00FFD1&center=true&vCenter=true&width=900&lines=Abdualrahman+Fadhil;مرحباً+بمستقبل+البيانات" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=52&duration=4000&pause=700&color=00FFD1&center=true&vCenter=true&width=1000&height=140&lines=Abdualrahman+Fadhil;مرحباً+بمستقبل+البيانات&background=0D1117FF" alt="Animated Banner" />
   </a>
 
 </div>
