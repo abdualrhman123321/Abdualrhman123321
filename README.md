@@ -58,7 +58,9 @@
   <!-- شارات الحالة — ضخمة ومتناسقة -->
   
 
-  
+
+
+  <br/>
 
   <!-- خط توهج سينمائي -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
@@ -211,12 +213,7 @@ Let's connect!
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:0D1117,100:00FFD1&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
   
   **⚡ Data is the new oil, and I'm the refinery.**
   
