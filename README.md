@@ -21,11 +21,7 @@
   
 
   <!-- شارات الحالة — ضخمة ومتناسقة -->
-  <p>
-    <img src="https://img.shields.io/badge/🔥_Expert-Data_Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/⏱️_1+_Years-Experience-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/🟢_Open-Available-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
-  </p>
+  
 
   <br>
 
