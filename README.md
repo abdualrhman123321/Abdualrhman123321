@@ -20,14 +20,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<br/>
+
 
 <!-- خلفية متحركة وسطية - شخص مع كمبيوتر ونظارة بعرض كامل -->
-<div align="center" style="width: 100%;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.4); border: 3px solid #00FFD1;"/>
-</div>
 
-<br/>
+
 
 <!-- خط فاصل أنيق -->
 <div align="center">
