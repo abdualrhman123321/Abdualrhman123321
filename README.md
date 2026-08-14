@@ -19,19 +19,11 @@
 
   <br>
 
-  <!-- Typing Animation تحت الهيدر -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=400&color=00FFD1&center=true&vCenter=true&width=900&lines=📊+Excel+%7C+Power+BI+%7C+SQL+%7C+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data" alt="Skills"/>
-  </a>
+  
 
-  <br><br>
+  <ة
 
   <!-- الشارات -->
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
 
 </div>
 
