@@ -100,6 +100,9 @@ Let's connect!
 
 
   
+
+
+  <!-- ═══════ رسم النشاط ═══════ -->
 <div align="center">
 
   <!-- ═══════ عنوان GitHub Statistics ═══════ -->
@@ -112,7 +115,7 @@ Let's connect!
   
   &nbsp;&nbsp;
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
 
   <br><br>
 
@@ -122,7 +125,7 @@ Let's connect!
   <br><br>
 
   <!-- ═══════ رسم النشاط ═══════ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD120" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true" width="90%"/>
 
 </div>
 
