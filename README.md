@@ -71,30 +71,12 @@ Let's connect!
 
 
 <!-- خلفية متحركة وسطية ثانية - شخص مع كمبيوتر -->
-<!-- Animated Data Analyst GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
-
-  <br>
-
-<br/>
 
 <!-- خط فاصل -->
 
 
 <!-- اللغات -->
-<div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=Languages" alt="Languages"/>
-  
- 
-
- 🇸🇦 Arabic 
- 🇬🇧 English 
-
-</div>
-
-<br/>
 
 <!-- خط فاصل -->
 
@@ -159,4 +141,3 @@ Let's connect!
 </div>
 <br>
 <be/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
