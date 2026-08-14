@@ -177,17 +177,6 @@
 <br/>
 
 <!-- الشهادات -->
-<div align="center">
-  
-## 🏆 Certifications
-
-<img src="https://img.shields.io/badge/Data_Analyst-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Excel_Expert-Microsoft-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Power_BI-Microsoft-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Python-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-
-</div>
 
 <br/>
 
@@ -196,40 +185,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<br/>
 
-<!-- خلفية متحركة سفلية - نفس الخلفية العلوية -->
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.7;"/>
-</div>
-
-<br/>
-
-<!-- المشاريع -->
-<div align="center">
-  
-## 📈 Featured Projects
-
-| 🏢 **Business Intelligence System** | 📊 **Sales Forecasting** |
-|-------------------------------------|---------------------------|
-| Power BI, SQL, DAX, Python | Python, Pandas, Scikit-learn |
-| Interactive dashboard with predictive analytics | 95% accuracy in sales predictions |
-
-| 📈 **Performance Reports Automation** | 🗺️ **Geographic Data Analysis** |
-|---------------------------------------|----------------------------------|
-| Excel Advanced, VBA, Power Query | Python, Power BI, Folium |
-| Fully automated monthly reports | Geographic sales & market analysis |
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
 
 <!-- إحصائيات الملف -->
 <div align="center">
@@ -252,15 +208,7 @@
 <br/>
 
 <!-- سبوتيفاي -->
-<div align="center">
-  
-## 🎵 Vibing To
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00FFD1&border_radius=10)](https://open.spotify.com/user/yourusername)
-
-</div>
-
-<br/>
 
 <!-- خط فاصل -->
 <div align="center">
@@ -275,9 +223,11 @@
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/abdulrhman_analyst)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdulrhman.fadhil@outlook.com)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/967777XXXXXX)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdualrhman123321)
 
 </div>
@@ -293,24 +243,56 @@
 
 <!-- خاتمة -->
 <div align="center">
-
-## 💫 "من اليمن إلى العالم، أحول البيانات إلى قصص نجاح وقرارات ذكية"
-
-## 👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات"
-
-### ⚡ Data is the new oil, and I'm the refinery
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+I'm+the+refinery.;Turning+Raw+Data+into+Clear+Decisions." alt="Typing SVG" />
+</div>
 
 <br/>
 
-**© 2024 Abdulrahman Fadhil | Data Analyst**  
-**👓 Data Analyst with Glasses - رؤية واضحة لبياناتك**  
-**🇾🇪 From Yemen to the World | صناعة المستقبل بالبيانات**
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdualrhamnm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117)](https://github.com/abdualrhm)
 
 </div>
 
 <br/>
 
-<!-- خلفية متحركة سفلية ثانية - نفس العرض الكامل -->
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.5;"/>
+### ⚡ Data is the new oil, and I'm the refinery
+
+> I don't just analyze data. I refine it into decisions, strategies, and growth.
+> From chaotic spreadsheets to clean dashboards that speak.
+
+<br/>
+
+**© 2025 Abdulrahman Fadhil | Data Analyst**
+
+**👓 Data Analyst with Glasses - Clarity in Every Dataset**
+**📊 Crafting the Future with Data | Where Numbers Become Stories**
+
+---
+
+### 🚀 What I Do
+
+- **Data Cleaning & Transformation:** Turning messy data into gold with Python, SQL & Advanced Excel
+- **Visualization & Storytelling:** Building Power BI dashboards that executives actually understand
+- **Business Intelligence:** 90+ WPM, 99% Accuracy - Speed meets precision
+- **Automation:** Reducing manual work by 25%+ with smart workflows
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+  
+  **"Every dataset has a story. I make sure it's told correctly."**
+
 </div>
