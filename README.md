@@ -156,3 +156,27 @@ Let's connect!
 </div>
 <br>
 <be/>
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/abdulrahman-fadhil">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abdulrhman.fadhil@outlook.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/967777XXXXXX">
+    <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
+
