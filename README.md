@@ -52,7 +52,7 @@
   
 👤 Abdulrahman Fadhl
  📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
- 🌍 Open to opportunities worldwide
+ <br>🌍 Open to opportunities worldwide<be/>
 
 </div>
 
