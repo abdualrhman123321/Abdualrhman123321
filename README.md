@@ -20,9 +20,10 @@
 <!-- معلومات شخصية مرتبة -->
 <div align="center">
   
-
- 📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
- <br>🌍 Open to opportunities worldwide<be/>
+<br> 📊<be/>
+  Data Analysis | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
+  <br>🌍<be/>
+ <br> Open to opportunities worldwide<be/>
 
 </div>
 
