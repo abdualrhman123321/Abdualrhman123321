@@ -1,4 +1,4 @@
-السؤال <div align="center">
+
 
 <!-- خلفية متحركة علوية - نفس العرض الكامل -->
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2);"/>
@@ -8,30 +8,6 @@
 <!-- أنيميشن ترحيبي --><div align="center">
 
 <!-- أولاً: اسمك يظهر قبل كل شي -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFD1,100:0D1117&height=180&section=header&text=I'm%20Abdualrahman&fontSize=50&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
-
-<br/><br/>
-
-<!-- ثانياً: نفس الـ GIF اللي كنت حاطه -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2);"/>
-
-<br/><br/>
-
-<!-- أنيميشن الكتابة -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B;Abdulrahman+Fadhil+%7C+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
-
-<br/>
-
-<!-- الشارات -->
-<p>
-  <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI-Pro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-</p>
-
-</div>
 
 
 
