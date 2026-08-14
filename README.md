@@ -35,9 +35,6 @@
 <br/>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+I'm+the+refinery.;Turning+Raw+Data+into+Clear+Decisions." alt="Typing SVG" />
-</div>
 
 <div align="center">
   <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
@@ -48,7 +45,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-fadhil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhman.fadhil@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967777XXXXXX)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdualrhm)
 
 </div>
 
