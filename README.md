@@ -213,9 +213,12 @@ Let's connect!
 
 <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
+  
   
   **⚡ Data is the new oil, and I'm the refinery.**
   
   **© 2025 Abdulrahman Fadhil | Data Analyst**
 </div>
+<br>
+<be/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
