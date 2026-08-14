@@ -1,327 +1,241 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--         ABDULRAHMAN FADHIL — DATA ANALYST | FROM YEMEN TO THE WORLD    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- خلفية متحركة علوية - نفس العرض الكامل -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2);"/>
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFD1,100:0D1117&height=200&section=header&text=Abdulrahman%20Fadhil&fontSize=45&fontColor=00FFD1&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
-<br/><br/>
+  <br/>
 
-<!-- أنيميشن ترحيبي -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D9%88%D8%B3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B;Abdulrahman+Fadhil+%7C+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+To+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
+  <!-- Dynamic Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=900&lines=📊+Transforming+Raw+Data+into+Strategic+Decisions;🔍+Uncovering+Hidden+Patterns+%26+Insights;📈+Building+Interactive+Dashboards+%26+KPIs;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data" alt="Typing Animation"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Location-Ibb%2C%20Yemen-00FFD1?style=for-the-badge&logo=google-maps&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
+
+  <br/><br/>
+
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/abdulrahman-fadhil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="mailto:abdulrhman.fadhil@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://wa.me/967777XXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://github.com/Abdualrhman123321">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
+
+</div>
 
 <br/>
 
-<!-- شارات رئيسية -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME — CODE STYLE                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+python
+class AbdulrahmanFadhil:
+    def __init__(self):
+        self.name = "Abdulrahman Fadhil"
+        self.role = "Data Analyst"
+        self.location = "Ibb, Yemen 🇾🇪"
+        self.education = "IT Graduate — Cisco Networking Academy"
+        self.experience = "3+ Years"
+        self.motto = "Clear Vision For Your Data"
+        
+    def get_skills(self):
+        return {
+            "Languages": ["Arabic (Native)", "English (Professional B2)"],
+            "Analytics": ["Excel Advanced", "Power BI", "SQL", "Python"],
+            "Visualization": ["DAX", "Power Query", "Matplotlib", "Seaborn"],
+            "Databases": ["MySQL", "PostgreSQL", "SQLite"],
+            "Automation": ["VBA", "Power Query", "ETL Pipelines"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🔬 Advanced Statistical Modeling",
+            "🤖 Predictive Analytics & Machine Learning",
+            "📊 Real-time Dashboard Architecture",
+            "🗣️ Data Storytelling & Business Narratives"
+        ]
+    
+    def say_hello(self):
+        print("Welcome! Let's turn your data into powerful decisions.")
+
+me = AbdulrahmanFadhil()
+me.say_hello()
+
+</div>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    CORE COMPETENCIES MATRIX                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+🎯 Core Competencies
+Sheets
+📊 Data Lifecycle
+🛠️ Technical Stack
+🎨 Visualization & BI
+Data Collection & Mining
+Excel (Advanced, VBA, Power Query)
+Power BI (DAX, Power Query, M)
+Data Cleaning & Preprocessing
+SQL (MySQL, PostgreSQL, SQLite)
+Tableau
+Exploratory Data Analysis (EDA)
+Python (Pandas, NumPy, Matplotlib)
+Matplotlib & Seaborn
+Statistical Analysis & Forecasting
+ETL Pipelines & Data Modeling
+Interactive Dashboards
+Business Intelligence & KPIs
+Data Warehousing
+Executive Reporting
+Data Storytelling & Narratives
+Git & Version Control
+Geographic Analysis (Folium)
+</div>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK BADGES                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+🛠️ Analytics Arsenal
+📊 Data Analysis & Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Data_Analyst-Expert-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Power_BI-Pro-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
-
+🐍 Python Libraries
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+🗄️ Databases & Querying
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
+</p>
 </div>
-
 <br/>
-
-<!-- خط فاصل أنيق -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS DASHBOARD                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+📈 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&ring_color=00FFD1" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD120" width="92%" alt="Contribution Graph"/>
 </div>
-
 <br/>
-
-<!-- خلفية متحركة وسطية - شخص مع كمبيوتر ونظارة بعرض كامل -->
-<div align="center" style="width: 100%;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d3c0743c47fac0e6b63b38b464fa.gif" alt="Data Analyst with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.4); border: 3px solid #00FFD1;"/>
-</div>
-
-<br/>
-
-<!-- خط فاصل أنيق -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    TROPHIES & ACHIEVEMENTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Abdualrhman123321&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&title_color=00FFD1&icon_color=00FFD1" width="95%" alt="GitHub Trophies"/>
 </div>
-
 <br/>
-
-<!-- معلومات شخصية مرتبة -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS SHOWCASE                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  
-## 👤 Abdulrahman Fadhil
-### 📊 Data Analyst | Excel, Power BI, SQL & Python
-### 🇾🇪 Ibb, Yemen | 🌍 Open to opportunities worldwide
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- بطاقة المهارات -->
-<div align="center">
-
-| 🎯 **Core Expertise** | 🛠️ **Technical Tools** |
-|-----------------------|-------------------------|
-| 📊 Data Collection & Mining | 📊 Excel (Advanced - Power Query, VBA) |
-| 🧹 Data Cleaning & Preprocessing | 📉 Power BI (DAX, Power Query) |
-| 🔍 Exploratory Data Analysis (EDA) | 🗄️ SQL (MySQL, PostgreSQL, SQLite) |
-| 📈 Statistical Analysis & Forecasting | 🐍 Python (Pandas, NumPy, Matplotlib) |
-| 📋 Dashboard Design & Reporting | ⚡ ETL Pipelines & Data Modeling |
-| 🎨 Data Visualization & Storytelling | 📐 Data Warehousing |
-| 💡 Business Intelligence & KPIs | 🔧 Power Query & M Language |
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- نبذة عني -->
-<div align="center">
-  
-## 📝 About Me
-
-> 🎓 IT Graduate from Cisco Networking Academy  
-> 💡 Passionate about Data Analysis & Business Intelligence  
-> 📊 3+ Years of Experience in Data Analytics  
-> 👓 Clear vision for your data - رؤية واضحة لبياناتك
-
-</div>
-
-<br/>
-
-<!-- خلفية متحركة وسطية ثانية - شخص مع كمبيوتر -->
-<div align="center" style="width: 100%;">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding with Glasses" width="100%" style="border-radius: 0px; box-shadow: 0 0 80px rgba(0,255,209,0.3); border: 3px solid #00FFD1;"/>
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- اللغات -->
-<div align="center">
-  
-## 🗣️ Languages
-
-| 🇸🇦 Arabic | 🇬🇧 English |
-|-----------|------------|
-| Native - اللغة الأم | Professional Working (B2) |
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- صور متحركة إضافية -->
-<div align="center">
-  
-## 👓 Data Analyst in Action
-
+🚀 Featured Projects
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>📊 Data Visualization</b>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abdualrhman123321/business-intelligence-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdualrhman123321&repo=business-intelligence-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="100%"/>
+      </a>
+      <p align="center"><b>🏢 Business Intelligence System</b><br/>Power BI · SQL · DAX · Python<br/>Interactive dashboards with predictive analytics</p>
     </td>
-    <td align="center">
-      <img src="https://cdn.dribbble.com/users/1292677/screenshots/14516142/media/0b9fa9b1db47de4ddee6504afa972b74.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>💡 Business Intelligence</b>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abdualrhman123321/sales-forecasting">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdualrhman123321&repo=sales-forecasting&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="100%"/>
+      </a>
+      <p align="center"><b>📊 Sales Forecasting Model</b><br/>Python · Pandas · Scikit-learn<br/>95% accuracy in sales predictions</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abdualrhman123321/automated-reporting">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdualrhman123321&repo=automated-reporting&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="100%"/>
+      </a>
+      <p align="center"><b>⚡ Automated Reporting System</b><br/>Excel VBA · Power Query · Python<br/>Fully automated monthly performance reports</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abdualrhman123321/geographic-market-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdualrhman123321&repo=geographic-market-analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="100%"/>
+      </a>
+      <p align="center"><b>🗺️ Geographic Market Analysis</b><br/>Python · Power BI · Folium<br/>Geographic sales & market penetration analysis</p>
     </td>
   </tr>
 </table>
-
 </div>
-
 <br/>
-
-<!-- خط فاصل -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS & CREDENTIALS                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Data_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Microsoft-Excel_Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Cisco-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+</p>
 </div>
-
 <br/>
-
-<!-- إحصائيات جيت هب -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    QUOTE & WISDOM SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" width="48%"/>
-
+💡 Data Wisdom
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact" width="45%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1" width="90%"/>
-
+"From Yemen to the World — Turning Data into Success Stories & Smart Decisions" 
+"With my clear vision, I see what others miss in the data" 
 </div>
-
 <br/>
-
-<!-- خط فاصل -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    FOOTER & CLOSING                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- الشهادات -->
-<div align="center">
-  
-## 🏆 Certifications
-
-<img src="https://img.shields.io/badge/Data_Analyst-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Excel_Expert-Microsoft-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Power_BI-Microsoft-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQL-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Python-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- خلفية متحركة سفلية - نفس الخلفية العلوية -->
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.7;"/>
-</div>
-
-<br/>
-
-<!-- المشاريع -->
-<div align="center">
-  
-## 📈 Featured Projects
-
-| 🏢 **Business Intelligence System** | 📊 **Sales Forecasting** |
-|-------------------------------------|---------------------------|
-| Power BI, SQL, DAX, Python | Python, Pandas, Scikit-learn |
-| Interactive dashboard with predictive analytics | 95% accuracy in sales predictions |
-
-| 📈 **Performance Reports Automation** | 🗺️ **Geographic Data Analysis** |
-|---------------------------------------|----------------------------------|
-| Excel Advanced, VBA, Power Query | Python, Power BI, Folium |
-| Fully automated monthly reports | Geographic sales & market analysis |
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- إحصائيات الملف -->
-<div align="center">
-  
-## 📊 Profile Statistics
-
-<img src="https://komarev.com/ghpvc/?username=Abdualrhman123321&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Abdualrhman123321?style=for-the-badge&color=00FFD1&label=TOTAL+STARS"/>
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- سبوتيفاي -->
-<div align="center">
-  
-## 🎵 Vibing To
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00FFD1&border_radius=10)](https://open.spotify.com/user/yourusername)
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- التواصل -->
-<div align="center">
-  
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/abdulrhman_analyst)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdulrhman.fadhil@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/967777XXXXXX)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Abdualrhman123321)
-
-</div>
-
-<br/>
-
-<!-- خط فاصل -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- خاتمة -->
-<div align="center">
-
-## 💫 "من اليمن إلى العالم، أحول البيانات إلى قصص نجاح وقرارات ذكية"
-
-## 👓 "بنظاراتي الواضحة، أرى ما لا يراه الآخرون في البيانات"
-
-### ⚡ Data is the new oil, and I'm the refinery
-
-<br/>
-
-**© 2024 Abdulrahman Fadhil | Data Analyst**  
-**👓 Data Analyst with Glasses - رؤية واضحة لبياناتك**  
-**🇾🇪 From Yemen to the World | صناعة المستقبل بالبيانات**
-
-</div>
-
-<br/>
-
-<!-- خلفية متحركة سفلية ثانية - نفس العرض الكامل -->
-<div align="center" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="100%" style="border-radius: 0px; box-shadow: 0 0 50px rgba(0,255,209,0.2); opacity: 0.5;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:0D1117,100:00FFD1&height=150&section=footer" width="100%"/>
+  <br/>
+⚡ Data is the new oil, and I'm the refinery.
+  <br/>
+© 2024 Abdulrahman Fadhil | Data Analyst
+👓 Clear Vision For Your Data | From Yemen to the World 🇾🇪🌍
 </div>
