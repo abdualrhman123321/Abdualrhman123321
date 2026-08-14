@@ -47,7 +47,7 @@
 
 </div>
 
-<br>r
+
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
 
@@ -58,7 +58,7 @@
 
 <!-- نبذة عني -->
 <div align="center">
-  
+  <br>
  📝 About Me
 
 Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
