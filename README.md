@@ -68,7 +68,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=About+Me" alt="About Me"/>
 
   
-Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
 I turn chaos into clarity.
 
 I see a story in every table, and a decision in every number.
@@ -81,7 +80,6 @@ Data without understanding is just numbers.
 Understanding without data is just an opinion.
 
 Abdulrahman Fadhil | Where Numbers Meet Decisions.
-
 </div>
 
 <br/>
