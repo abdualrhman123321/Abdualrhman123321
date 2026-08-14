@@ -12,7 +12,7 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
 
   <!-- خلفية فينوم ضخمة مع إطار توهج -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data25Analyst&descAlignY=68&descAlign=50&descSize=35&stroke=00FFD1&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data&Analyst&descAlignY=68&descAlign=50&descSize=35&stroke=00FFD1&strokeWidth=3" width="100%"/>
   <!-- Animated Data Analyst GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
 
