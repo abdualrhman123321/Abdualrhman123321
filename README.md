@@ -77,8 +77,11 @@ Let's connect!
 
 <!-- اللغات -->
 <div align="center">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=Languages" alt="Languages"/>
   
- 🗣️ Languages
+ 
 
  🇸🇦 Arabic 
  🇬🇧 English 
@@ -92,19 +95,6 @@ Let's connect!
 <br/>
 
 
-<div align="center">
-
-  <!-- عنوان ضخم -->
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=130&lines=🗣️+Languages" alt="Languages"/>
-
-  <br><br>
-
-  <!-- شارات اللغات -->
-  <img src="https://img.shields.io/badge/🇸🇦_Arabic-Native-00FFD1?style=for-the-badge&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🇬🇧_English-Professional%20(B2)-00FFD1?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
 
 
 
