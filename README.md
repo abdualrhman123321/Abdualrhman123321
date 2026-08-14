@@ -12,7 +12,29 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
 
   <!-- خلفية فينوم ضخمة مع إطار توهج -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data&Analyst&descAlignY=68&descAlign=50&descSize=35&stroke=00FFD1&strokeWidth=3" width="100%"/>
+<div align="center">
+
+  <!-- Venom Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=300&section=header&text=I'm%20Abdualrahman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst&descAlignY=65&descAlign=50&descSize=32&stroke=00FFD1&strokeWidth=2" width="100%"/>
+
+  <br>
+
+  <!-- Typing Animation تحت الهيدر -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=400&color=00FFD1&center=true&vCenter=true&width=900&lines=📊+Excel+%7C+Power+BI+%7C+SQL+%7C+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data" alt="Skills"/>
+  </a>
+
+  <br><br>
+
+  <!-- الشارات -->
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-00FFD1?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FFD1?style=for-the-badge&logo=clockify&logoColor=black&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FFD1?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
+
+</div>
+
   <!-- Animated Data Analyst GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
 
