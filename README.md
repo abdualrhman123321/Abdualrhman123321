@@ -21,6 +21,7 @@
 <div align="center">
   
 <br> 📊<be/>
+
   Data Analysis | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
   <br>🌍<be/>
  <br> Open to opportunities worldwide<be/>
@@ -59,19 +60,7 @@
 <br/>
 
 <!-- بطاقة المهارات -->
-<div align="center">
 
-| 🎯 **Core Expertise** | 🛠️ **Technical Tools** |
-|-----------------------|-------------------------|
-| 📊 Data Collection & Mining | 📊 Excel (Advanced - Power Query, VBA) |
-| 🧹 Data Cleaning & Preprocessing | 📉 Power BI (DAX, Power Query) |
-| 🔍 Exploratory Data Analysis (EDA) | 🗄️ SQL (MySQL, PostgreSQL, SQLite) |
-| 📈 Statistical Analysis & Forecasting | 🐍 Python (Pandas, NumPy, Matplotlib) |
-| 📋 Dashboard Design & Reporting | ⚡ ETL Pipelines & Data Modeling |
-| 🎨 Data Visualization & Storytelling | 📐 Data Warehousing |
-| 💡 Business Intelligence & KPIs | 🔧 Power Query & M Language |
-
-</div>
 
 <br/>
 
@@ -85,7 +74,7 @@
   
  📝 About Me
 
-Data Analyst | Excel, Power BI & SQL
+Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
 
 IT graduate passionate about Data Analysis & Business Intelligence.
 
