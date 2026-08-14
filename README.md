@@ -15,7 +15,18 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
 
   
+<br/>
 
+<!-- معلومات شخصية مرتبة -->
+<div align="center">
+  
+
+ 📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
+ <br>🌍 Open to opportunities worldwide<be/>
+
+</div>
+
+<br/>
   <!-- أنيميشن المهارات — سريع وقوي -
 
   
@@ -41,18 +52,6 @@
 
 <!-- خط فاصل أنيق -->
 
-<br/>
-
-<!-- معلومات شخصية مرتبة -->
-<div align="center">
-  
-
- 📊 Data Analyst | Excel, Power BI, SQL & Python, Pandas & Matplotlib | Business Insights
- <br>🌍 Open to opportunities worldwide<be/>
-
-</div>
-
-<br/>
 
 <!-- خط فاصل -->
 
