@@ -92,20 +92,21 @@ Let's connect!
 <br/>
 
 
-
 <div align="center">
 
-  <!-- ═══════ عنوان Languages ضخم ═══════ -->
+  <!-- عنوان ضخم -->
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=130&lines=🗣️+Languages" alt="Languages"/>
 
   <br><br>
 
-  <!-- ═══════ اللغات ═══════ -->
-  <h2><samp>🇸🇦 Arabic — Native</samp></h2>
-  
-  <h2><samp>🇬🇧 English — Professional Working (B2)</samp></h2>
+  <!-- شارات اللغات -->
+  <img src="https://img.shields.io/badge/🇸🇦_Arabic-Native-00FFD1?style=for-the-badge&labelColor=0D1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🇬🇧_English-Professional%20(B2)-00FFD1?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
+
+
 
 <ة
 
