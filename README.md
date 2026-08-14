@@ -174,6 +174,10 @@
 <!-- خط فاصل -->
 
 <!-- التواصل -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         LET'S CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 🤝 Let's Connect
@@ -198,14 +202,16 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</p>
+<br/>
 
-<!-- خط فاصل -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:0D1117,100:00FFD1&height=150&section=footer" width="100%"/>
+  
+  **⚡ Data is the new oil, and I'm the refinery.**
+  
+  **© 2024 Abdulrahman Fadhil | Data Analyst**
+</div>
