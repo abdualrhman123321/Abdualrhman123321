@@ -96,24 +96,28 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 
 <table>
 <tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Python
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>SQL
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>SQL</b></sub>
 </td>
-<td align="center" width="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Power BI
+<td align="center" width="95">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Power BI</b></sub>
 </td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Pandas
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="95">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Excel</b></sub>
+</td>
+<td align="center" width="95">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" style="background: white; border-radius: 50%; padding: 8px;"/><br><sub><b>Matplotlib</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
-
-
 
   
 
