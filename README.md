@@ -78,6 +78,44 @@ Let's connect!
 
 <br/>
 
+
+<div align="center">
+
+<!-- ═══════ عنوان About Me ضخم ومتفاعل ═══════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=55&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&height=90&lines=📝+ABOUT+ME" alt="About Me"/>
+</a>
+
+<br><br>
+
+Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
+
+<br>
+
+IT graduate passionate about Data Analysis & Business Intelligence.
+
+<br>
+
+I transform complex data into clear insights and interactive dashboards using Excel, Power BI, and SQL.
+
+<br><br>
+
+Expertise: Data collection | Data Cleaning | Data Research & Data Mining | Data Analysis | Dashboards | Reporting | Data Visualization | Business Insights
+
+<br><br>
+
+Tools: Excel (Advanced) | Power BI | SQL | Power Query | DAX | Python (Pandas, Matplotlib)
+
+<br><br>
+
+Open to Data Analyst opportunities worldwide.
+
+<br><br>
+
+Let's connect!
+
+</div>
+
 <!-- خلفية متحركة وسطية ثانية - شخص مع كمبيوتر -->
 <!-- Animated Data Analyst GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
