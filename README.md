@@ -11,29 +11,30 @@
 
 <div align="center">
 
-  <!-- ═══════ خط علوي متوهج ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=5&section=header" width="90%"/>
+  <!-- ═══════ خط توهج علوي ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,100:0D1117&height=6&section=header" width="95%"/>
 
-  <br/><br/>
+  <br><br>
 
-  <!-- ═══════ اللافتة الرئيسية الخارقة ═══════ -->
+  <!-- ═══════ اللافتة الرئيسية — الخط الأقوى ═══════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=75&duration=2800&pause=500&color=00FFD1&center=true&vCenter=true&width=1200&height=200&lines=Abdualrahman+Fadhil;مرحباً+بمستقبل+البيانات&background=0D1117" alt="Super Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=80&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&width=1200&height=200&lines=I'm+Abdualrahman;مرحباً+بمستقبل+البيانات&background=0D1117" alt="Super Banner"/>
   </a>
 
-  <br/><br/>
+  <br><br>
 
-  <!-- ═══════ خط سفلي متوهج ═══════ -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=5&section=footer" width="90%"/>
+  <!-- ═══════ خط توهج سفلي ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FFD1&height=6&section=footer" width="95%"/>
 
-  <br/>
+  <br>
 
   <!-- ═══════ أنيميشن المهارات الثانوي ═══════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=400&color=FFFFFF&center=true&vCenter=true&width=900&lines=📊+Excel+Advanced+·+Power+BI+·+SQL+·+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data;⚡+Turning+Numbers+Into+Decisions" alt="Skills Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=300&color=FFFFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Excel+·+Power+BI+·+SQL+·+Python;From+Yemen+🇾🇪+To+The+World" alt="Skills Banner"/>
   </a>
 
 </div>
+
 
 
 
