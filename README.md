@@ -69,18 +69,18 @@
 
   
 Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
+I turn chaos into clarity.
 
-IT graduate passionate about Data Analysis & Business Intelligence.
+I see a story in every table, and a decision in every number.
+My job isn't to read data — it's to make it speak.
 
-I transform complex data into clear insights and interactive dashboards using Excel, Power BI, and SQL.
+Between Excel, Power BI, SQL & Python,
+I hunt for hidden patterns and turn them into dashboards anyone can understand.
 
-Expertise: Data collection | Data Cleaning |  Data Research & Data Mining | Data Analysis | Dashboards | Reporting | Data Visualization | Business Insights
+Data without understanding is just numbers.
+Understanding without data is just an opinion.
 
-Tools: Excel (Advanced) | Power BI | SQL | Power Query | DAX | Python (Pandas, Matplotlib)
-
-Open to Data Analyst opportunities worldwide.
-
-Let's connect!
+Abdulrahman Fadhil | Where Numbers Meet Decisions.
 
 </div>
 
