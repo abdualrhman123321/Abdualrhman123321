@@ -90,7 +90,28 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <!-- خط فاصل -->
 
 <br/>
+<div align="center">
 
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Python
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>SQL
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Power BI
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="background: white; border-radius: 50%; padding: 8px;"/><br>Pandas
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
