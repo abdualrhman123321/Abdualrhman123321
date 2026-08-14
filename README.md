@@ -98,9 +98,29 @@ Let's connect!
 
 
 
-<
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrahman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD120" width="92%" alt="Activity Graph"/>
-  </p>
+<div align="center">
+
+  <!-- ═══════ عنوان GitHub Statistics أبيض ضخم ═══════ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=📊+GitHub+Statistics" alt="GitHub Statistics"/>
+
+  <br><br>
+
+  <!-- ═══════ الإحصائيات العلوية ═══════ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00FFD1&text_color=FFFFFF" height="170"/>
+  
+  &nbsp;&nbsp;
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
+
+  <br><br>
+
+  <!-- ═══════ اللغات ═══════ -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact" height="150"/>
+
+  <br><br>
+
+  <!-- ═══════ رسم النشاط ═══════ -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD120" width="90%"/>
 
 </div>
 
