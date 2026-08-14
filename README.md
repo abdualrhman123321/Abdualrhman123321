@@ -202,10 +202,8 @@
 
 <!-- خط فاصل -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
 </div>
-
-<br/>
 
 <!-- سبوتيفاي -->
 
