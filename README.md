@@ -108,11 +108,9 @@ Let's connect!
   <!-- ═══════ عنوان GitHub Statistics ═══════ -->
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=GitHub+Statistics" alt="GitHub Statistics"/>
 
-  <br><br>
+  
 
-  <!-- ═══════ الإحصائيات العلوية ═══════ -->
-  
-  
+  <!-- ═══════ الإحصائيات العلوية ═══════!-->
   &nbsp;&nbsp;
   
   <img src="https://streak-stats.demolab.com?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
