@@ -34,28 +34,53 @@
 
 <br/>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+I'm+the+refinery.;Turning+Raw+Data+into+Clear+Decisions." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
 <div align="center">
 
-  <a href="https://linkedin.com/in/abdulrahman-fadhil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abdulrhman.fadhil@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/967777XXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/abdualrhm" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-fadhil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhman.fadhil@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967777XXXXXX)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdualrhm)
 
 </div>
 
-<!-- معلومات شخصية مرتبة -->
+<br/>
 
+### ⚡ About Me
+
+**Data Analyst | Excel, Power BI & SQL & Python, Pandas**
+
+IT graduate passionate about Data Analysis. I don't just analyze data. I refine it into decisions, strategies, and growth. From chaotic spreadsheets to clean dashboards that speak.
+
+<div align="center">
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
+### 🚀 What I Do
+- **Data Cleaning & Transformation:** Turning messy data into gold with Python, SQL & Advanced Excel
+- **Visualization & Storytelling:** Building Power BI dashboards that executives actually understand
+- **Business Intelligence:** 90+ WPM, 99% Accuracy - Speed meets precision
+
+<div align="center">
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
+<div align="center">
+  
+  **"Every dataset has a story. I make sure it's told correctly."**
+
+  <br/><br/>
+  **© 2025 Abdulrahman Fadhil | Data Analyst**
+
+</div>
 
 
 
