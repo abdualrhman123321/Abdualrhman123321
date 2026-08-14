@@ -111,26 +111,7 @@
 <br/>
 
 <!-- صور متحركة إضافية -->
-<div align="center">
-  
-## 👓 Data Analyst in Action
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/837678d4d5dc8f2486bed05d446d4b43.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>📊 Data Visualization</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.dribbble.com/users/1292677/screenshots/14516142/media/0b9fa9b1db47de4ddee6504afa972b74.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,209,0.3); border: 2px solid #00FFD1;"/>
-      <br/><b>💡 Business Intelligence</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- خط فاصل -->
 
@@ -161,7 +142,50 @@
 
 <!-- خط فاصل -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+I'm+the+refinery.;Turning+Raw+Data+into+Clear+Decisions." alt="Typing SVG" />
+</div>
+
+<div align="center">
   <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/abdulrahman-fadhil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:abdualrhamnm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117)](https://github.com/abdualrhm)
+
+</div>
+
+<br/>
+
+### ⚡ Data is the new oil, and I'm the refinery
+
+> I don't just analyze data. I refine it into decisions, strategies, and growth.
+> From chaotic spreadsheets to clean dashboards that speak.
+
+<div align="center">
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
+**© 2025 Abdulrahman Fadhil | Data Analyst**
+
+**👓 Data Analyst with Glasses - Clarity in Every Dataset**
+**📊 Crafting the Future with Data | Where Numbers Become Stories**
+
+<div align="center">
+  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+</div>
+
+### 🚀 What I Do
+- **Data Cleaning & Transformation:** Turning messy data into gold with Python, SQL & Advanced Excel
+- **Visualization & Storytelling:** Building Power BI dashboards that executives actually understand
+- **Business Intelligence:** 90+ WPM, 99% Accuracy - Speed meets precision
+
+<div align="center">
+  
+  **"Every dataset has a story. I make sure it's told correctly."**
+
 </div>
 
 
