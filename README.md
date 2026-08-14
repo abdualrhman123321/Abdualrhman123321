@@ -28,15 +28,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdulrahman-fadhil">
+<a href="https://linkedin.com/in/abdulrahman-fadhl">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="mailto:abdulrhman.fadhil@outlook.com">
+<a href="mailto:Abdualrhamnm@gmail.com ">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="https://wa.me/967777XXXXXX">
+<a href="https://wa.me/967775103654">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
 </a>
 
@@ -55,9 +55,9 @@
 
 <!-- نبذة عني -->
 <div align="center">
-  
+ <br >
  📝 About Me
- 
+< be/>
  
 
 Data Analyst | Excel, Power BI & SQL & Python, Pandas & Matplotlib | Business Insights
