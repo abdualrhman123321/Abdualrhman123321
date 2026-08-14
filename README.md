@@ -98,6 +98,25 @@ Let's connect!
 
 
 
+<div align="center">
+
+ GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&ring_color=00FFD1" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=00FFD1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="180" alt="GitHub Streak"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact&langs_count=8" height="160" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD120" width="92%" alt="Activity Graph"/>
+</p>
+
+</div>
 
 
 
@@ -109,19 +128,7 @@ Let's connect!
 
 
 <!-- إحصائيات جيت هب -->
-<div align="center">
-  
-## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdualrhman123321&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&layout=compact" width="45%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdualrhman123321&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true&area_color=00FFD1" width="90%"/>
-
-</div>
 
 <br/>
 
