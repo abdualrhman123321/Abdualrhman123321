@@ -125,14 +125,6 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <div align="center">
 
   <!-- ═══════ عنوان GitHub Statistics ═══════ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=25&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=GitHub+Statistics" alt="GitHub Statistics"/>
-
-
-  <!-- ═══════ رسم النشاط ═══════ -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true" width="90%"/>
-
-</div>
-
 
 
 
