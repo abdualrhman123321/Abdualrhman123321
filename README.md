@@ -37,7 +37,7 @@
 
 
 <div align="center">
-  <div style="height: 1px; width: 80%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
+  <div style="height: 1px; width: 50%; background: linear-gradient(to right, transparent, #888888, transparent); margin: 20px 0;"></div>
 </div>
 
 <div align="center">
