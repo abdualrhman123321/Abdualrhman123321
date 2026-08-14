@@ -8,14 +8,29 @@
 <!-- أنيميشن ترحيبي --><div align="center">
 
 <!-- أولاً: اسمك يظهر قبل كل شي -->
+
 <div align="center">
 
-  <!-- ═══════════════════════════════════════════════════════════════ -->
-  <!--              اللافتة المتحركة - Animated Banner                 -->
-  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- ═══════ خط علوي متوهج ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=5&section=header" width="90%"/>
 
+  <br/><br/>
+
+  <!-- ═══════ اللافتة الرئيسية الخارقة ═══════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=52&duration=4000&pause=700&color=00FFD1&center=true&vCenter=true&width=1000&height=140&lines=Abdualrahman+Fadhil;مرحباً+بمستقبل+البيانات&background=0D1117FF" alt="Animated Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=75&duration=2800&pause=500&color=00FFD1&center=true&vCenter=true&width=1200&height=200&lines=Abdualrahman+Fadhil;مرحباً+بمستقبل+البيانات&background=0D1117" alt="Super Banner" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ═══════ خط سفلي متوهج ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=5&section=footer" width="90%"/>
+
+  <br/>
+
+  <!-- ═══════ أنيميشن المهارات الثانوي ═══════ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=400&color=FFFFFF&center=true&vCenter=true&width=900&lines=📊+Excel+Advanced+·+Power+BI+·+SQL+·+Python;🌍+From+Yemen+🇾🇪+To+The+World;👓+Clear+Vision+For+Your+Data;⚡+Turning+Numbers+Into+Decisions" alt="Skills Typing" />
   </a>
 
 </div>
