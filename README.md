@@ -100,7 +100,11 @@ Let's connect!
 
 <div align="center">
 
- GitHub Statistics
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=150&lines=GitHub Statistics
+" alt="GitHub Statistics
+"/>
+ 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdualrhman123321&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&ring_color=00FFD1" height="180" alt="GitHub Stats"/>
