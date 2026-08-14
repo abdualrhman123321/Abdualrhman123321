@@ -13,6 +13,8 @@
 
   <!-- خلفية فينوم ضخمة مع إطار توهج -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFD1,100:0D1117&height=320&section=header&text=I'm%20Abdualrahman&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst&descAlignY=68&descAlign=50&descSize=28&stroke=00FFD1&strokeWidth=3" width="100%"/>
+  < br><bad/>
+  <br><be/>
 
   
 <br/>
