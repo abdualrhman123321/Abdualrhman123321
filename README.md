@@ -57,7 +57,7 @@
       
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=300&height=150&lines=About+Me" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=1&pause=1000&color=00FFD1&center=true&vCenter=true&width=300&height=150&lines=About+Me" alt="About Me"/>
 </div>
 
 
