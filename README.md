@@ -125,3 +125,7 @@ Daily Data Wisdom
 💡 Let's Connect & Collaborate!
 "The goal is to turn data into information, and information into insight."  — Carly Fiorina
 </div>
+  <!-- Animated Data Analyst GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3eXJ4eHh0dGJ1eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eWZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analysis Animation"/>
+
+  <br>
