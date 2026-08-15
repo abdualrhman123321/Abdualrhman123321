@@ -41,6 +41,20 @@
   <a href="https://wa.me/YOUR-NUMBER"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFC8?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FFC8?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/YOUR-NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-00FFC8?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  </a>
+</p>
+
 
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
 
