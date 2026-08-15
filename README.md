@@ -36,9 +36,9 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/YOUR-NUMBER"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
+  <a href="https://www.linkedin.com/in/abdualrhman-fadhl-217a28428"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Abdualrhamnm@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+967775103654"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
 </p>
 
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
@@ -151,22 +151,6 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/YOUR-NUMBER">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
-  </a>
-</p>
-
-<!-- صور متحركة إضافية --><div align="center">
-
-  <!-- ═══════ عنوان GitHub Statistics أبيض ضخم ═══════ -->
-  
 
 
 <!-- خط فاصل -->
