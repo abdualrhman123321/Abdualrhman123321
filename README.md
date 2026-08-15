@@ -41,6 +41,18 @@
   <a href="https://wa.me/YOUR-NUMBER"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/YOUR-NUMBER">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="45" style="background:white; border-radius:50%; padding:2px;" />
+  </a>
+</p>
+
 
 
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
