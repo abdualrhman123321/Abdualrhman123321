@@ -20,7 +20,7 @@
   <br>
 
   
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
+ 
   
 
   <!-- الشارات -->
@@ -38,18 +38,14 @@
 
 
 
-
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
 
 
 
 
   <!-- أنيميشن المهارات — سريع وقوي -
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="45" /></a>&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="45" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/YOUR-NUMBER"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
-</p>
+
 
 
 <!-- نبذة عني -->
