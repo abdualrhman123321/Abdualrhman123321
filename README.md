@@ -37,21 +37,21 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/abdulrahman-fadhl"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="40" style="margin: 70px;"/></a>
-  <a href="mailto:abdualrhamnm@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail--v1.png" width="40" style="margin: 30px; border-radius: 50%;"/></a>
-  <a href="https://wa.me/+967775103654"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="40" style="margin: 30px;"/></a>
-</div>
-<p align="center">
+  
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://wa.me/YOUR-NUMBER">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
+
+</div>
+
 
 
 
