@@ -151,6 +151,18 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/YOUR-NUMBER">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" style="filter: drop-shadow(0 0 8px #00FFC8);" />
+  </a>
+</p>
+
 <!-- صور متحركة إضافية --><div align="center">
 
   <!-- ═══════ عنوان GitHub Statistics أبيض ضخم ═══════ -->
