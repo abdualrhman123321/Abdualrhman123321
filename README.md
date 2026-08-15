@@ -42,16 +42,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFC8?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="45" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFC8?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  &nbsp;
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="45" />
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/YOUR-NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-00FFC8?style=for-the-badge&logo=whatsapp&logoColor=black" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
   </a>
 </p>
 
