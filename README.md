@@ -45,12 +45,6 @@
 </p>
 
 
-  <a href="https://www.linkedin.com/in/abdulrahman-al-ghrasi">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>&nbsp;&nbsp;
-  
-
-
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FFD1,100:0D1117&height=8&section=footer" width="90%"/>
 
 
