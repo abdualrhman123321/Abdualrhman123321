@@ -43,8 +43,12 @@
 
 
 
-  <!-- أنيميشن المهارات — سريع وقوي -
-
+  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="45" /></a>&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="45" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/YOUR-NUMBER"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a>
+</p>
 
 
 
