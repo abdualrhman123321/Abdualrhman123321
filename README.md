@@ -136,6 +136,10 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
   
   
   &nbsp;&nbsp;
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
+
   
 
 
