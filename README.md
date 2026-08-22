@@ -139,19 +139,22 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <img src="https://streak-stats.demolab.com?user=abdualrhman123321&theme=radical&hide_border=true&background=0D1117&ring=00FFD1&fire=00FFD1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170"/>
 
 
-<div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdualrhman123321&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00FFD1&icon_color=00FFD1" width="95%"/>
-
-</div>
 
   <!-- ═══════ اللغات الأكثر استخداماً ═══════ -->
 
   
 
   <br><br>
+
+
+  <div align="center">
+
+ 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdualrhman123321&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00FFD1&icon_color=00FFD1" width="95%"/>
+
+</div>
 
   <!-- ═══════ رسم المساهمات ═══════ -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true&area=true" width="90%"/>
