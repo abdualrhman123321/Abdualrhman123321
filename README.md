@@ -155,6 +155,8 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdualrhman123321&bg_color=0D1117&color=FFFFFF&line=00FFD1&point=FFFFFF&hide_border=true" width="100%"/>
+
 
 
 <!-- خط فاصل -->
