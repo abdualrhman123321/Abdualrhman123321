@@ -161,18 +161,12 @@ Abdulrahman Fadhl | Where Numbers Meet Decisions.
 <!-- خط فاصل -->
 
 
-<!-- إحصائيات جيت هب -->
-
-
-<br/>
-
-<br/>
-
+ 
   
   
-  **Data is the new oil, and I'm the refinery**
+  Data is the new oil, and I'm the refinery**
   
-  **2025 Abdulrahman Fadhil | Data Analyst**
+  2025 Abdulrahman Fadhil | Data Analyst**
 </div>
 <br>
 <be/>
